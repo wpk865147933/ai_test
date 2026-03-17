@@ -1,0 +1,68 @@
+diff --git a/src/action-policy.ts b/src/action-policy.ts
+index b9847d2..5e9fe61 100644
+--- a/src/action-policy.ts
++++ b/src/action-policy.ts
+@@ -245,6 +245,29 @@ export function reloadPolicyIfChanged(): ActionPolicy | null {
+   return cachedPolicy;
+ }
+ 
++/**
++ * Built-in default policy used when the user has not specified --action-policy.
++ */
++export const DEFAULT_POLICY: ActionPolicy = {
++  default: 'allow',
++  deny: ['eval', 'download', 'upload'],
++  allow: ['*'],
++};
++
++/** Categories that trigger a warning (but still allow) under the default policy. */
++export const DEFAULT_CONFIRM_CATEGORIES = new Set(['network', 'state']);
++
++/** When true, all policy enforcement is disabled (--no-policy / AGENT_BROWSER_NO_POLICY=1). */
++let noPolicyMode = false;
++
++export function setNoPolicyMode(value: boolean): void {
++  noPolicyMode = value;
++}
++
++export function getNoPolicyMode(): boolean {
++  return noPolicyMode;
++}
++
+ export function checkPolicy(
+   action: string,
+   policy: ActionPolicy | null,
+@@ -255,18 +278,26 @@ export function checkPolicy(
+   // Internal actions are always allowed
+   if (category === '_internal') return 'allow';
+ 
++  // --no-policy disables all enforcement
++  if (noPolicyMode) return 'allow';
++
++  // When no explicit policy is loaded, apply the built-in default policy
++  const effectivePolicy = policy ?? DEFAULT_POLICY;
++  const effectiveConfirm = policy
++    ? confirmCategories
++    : new Set([...confirmCategories, ...DEFAULT_CONFIRM_CATEGORIES]);
++
+   // Explicit deny takes precedence over confirmation
+-  if (policy?.deny?.includes(category)) return 'deny';
++  if (effectivePolicy.deny?.includes(category)) return 'deny';
+ 
+   // Check if this category requires confirmation
+-  if (confirmCategories.has(category)) return 'confirm';
+-
+-  if (!policy) return 'allow';
++  if (effectiveConfirm.has(category)) return 'confirm';
+ 
+-  // Explicit allow list
+-  if (policy.allow?.includes(category)) return 'allow';
++  // Explicit allow list (wildcard '*' matches everything)
++  if (effectivePolicy.allow?.includes(category) || effectivePolicy.allow?.includes('*'))
++    return 'allow';
+ 
+-  return policy.default;
++  return effectivePolicy.default;
+ }
+ 
+ export function describeAction(action: string, command: Record<string, unknown>): string {

@@ -1,0 +1,14 @@
+{"skillName":"citadel","sourceType":"mt-name","sourceId":"citadel","env":"prod","installedAt":"2026-03-17T11:34:28.071Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"agent-browser","sourceType":"mt-name","sourceId":"agent-browser","env":"prod","installedAt":"2026-03-17T13:47:37.545Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"sql-query","sourceType":"mt-name","sourceId":"sql-query","env":"prod","installedAt":"2026-03-17T13:49:15.005Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"daxiang-group-message","sourceType":"mt-name","sourceId":"daxiang-group-message","env":"prod","installedAt":"2026-03-17T14:33:25.500Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"meituan-sso","sourceType":"mt-name","sourceId":"meituan-sso","env":"prod","installedAt":"2026-03-17T14:33:32.916Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"skill-vetter","sourceType":"mt-name","sourceId":"skill-vetter","env":"prod","installedAt":"2026-03-17T14:33:41.295Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"daxiang-chat-summary","sourceType":"mt-name","sourceId":"daxiang-chat-summary","env":"prod","installedAt":"2026-03-17T14:33:49.357Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"self-improving-agent","sourceType":"mt-name","sourceId":"self-improving-agent","env":"prod","installedAt":"2026-03-17T14:34:03.572Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"km-search","sourceType":"mt-name","sourceId":"km-search","env":"prod","installedAt":"2026-03-17T14:34:03.753Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"room-booking-helper","sourceType":"mt-name","sourceId":"room-booking-helper","env":"prod","installedAt":"2026-03-17T14:34:13.371Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"capability-evolver","sourceType":"mt-name","sourceId":"capability-evolver","env":"prod","installedAt":"2026-03-17T14:34:14.297Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"calendar-manager","sourceType":"mt-name","sourceId":"calendar-manager","env":"prod","installedAt":"2026-03-17T14:34:26.009Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"moa-login-fix","sourceType":"mt-name","sourceId":"moa-login-fix","env":"prod","installedAt":"2026-03-17T15:04:21.281Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}
+{"skillName":"meituan-sso-login","sourceType":"mt-name","sourceId":"meituan-sso-login","env":"prod","installedAt":"2026-03-17T15:04:24.559Z","targetDir":"/Users/wangpengkun/.qclaw/workspace/.claude/skills"}

@@ -1,0 +1,52 @@
+#!/bin/bash
+# GitHub Trending 抓取脚本
+
+RANGE="${1:-daily}"
+FORMAT="${2:-markdown}"
+
+# 构建 URL
+URL="https://github.com/trending?since=${RANGE}"
+
+# 抓取页面并解析
+curl -s "$URL" | awk -v format="$FORMAT" '
+BEGIN {
+    rank = 0
+}
+/<article class="Box-row/"> {
+    rank++
+}
+/href="\/[^"]+"[^>]*>/ && rank > 0 && name == "" {
+    match($0, /href="\/([^"]+)"/, arr)
+    if (arr[1] != "" && arr[1] !~ /^\/site/) {
+        name = arr[1]
+    }
+}
+/itemprop="programmingLanguage"/ && rank > 0 && lang == "" {
+    match($0, />([^<]+)<\/span/, arr)
+    lang = arr[1]
+    gsub(/^[ \t]+|[ \t]+$/, "", lang)
+}
+/href="\/[^"]+"\s*stargazers/ && rank > 0 {
+    match($0, />([0-9,]+)<\/a/, arr)
+    stars = arr[1]
+    gsub(/,/, "", stars)
+}
+/<span class="[^"]*text-small[^"]*">/ && rank > 0 && desc == "" {
+    match($0, /<span class="[^"]*text-small[^"]*">([^<]+)</, arr)
+    desc = arr[1]
+    gsub(/^[ \t]+|[ \t]+$/, "", desc)
+}
+/<\/article>/ {
+    if (name != "" && rank > 0) {
+        if (format == "json") {
+            printf "{\"rank\":%d,\"name\":\"%s\",\"language\":\"%s\",\"stars\":\"%s\",\"description\":\"%s\"}\n", rank, name, lang, stars, desc
+        } else {
+            printf "%d. **%s** (%s) ⭐ %s\n   %s\n\n", rank, name, lang, stars, desc
+        }
+    }
+    name = ""
+    lang = ""
+    stars = ""
+    desc = ""
+}
+'

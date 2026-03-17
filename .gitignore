@@ -1,0 +1,9 @@
+# 敏感信息 - 不提交
+.openclaw/
+.claude/skills/*/scripts/
+*.key
+*.pem
+auth-profiles.json
+
+# 系统文件
+.DS_Store

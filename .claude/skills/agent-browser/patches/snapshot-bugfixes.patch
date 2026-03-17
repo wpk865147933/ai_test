@@ -1,0 +1,130 @@
+diff --git a/src/snapshot.ts b/src/snapshot.ts
+index 6e6c774..8f506ab 100644
+--- a/src/snapshot.ts
++++ b/src/snapshot.ts
+@@ -17,6 +17,7 @@
+  *   agent-browser click @e2             # Click element by ref
+  */
+ 
++import * as crypto from 'crypto';
+ import type { Page, Locator } from 'playwright-core';
+ 
+ export interface RefMap {
+@@ -47,21 +48,30 @@ export interface SnapshotOptions {
+   selector?: string;
+ }
+ 
+-// Counter for generating refs
+-let refCounter = 0;
++// Counters for generating refs (split by element type)
++let eCounter = 0; // interactive elements
++let cCounter = 0; // content elements
+ 
+ /**
+- * Reset ref counter (call at start of each snapshot)
++ * Reset ref counters (call at start of each snapshot)
+  */
+ export function resetRefs(): void {
+-  refCounter = 0;
++  eCounter = 0;
++  cCounter = 0;
+ }
+ 
+ /**
+- * Generate next ref ID
++ * Generate next interactive ref ID (e-prefix)
+  */
+-function nextRef(): string {
+-  return `e${++refCounter}`;
++function nextInteractiveRef(): string {
++  return `e${++eCounter}`;
++}
++
++/**
++ * Generate next content ref ID (c-prefix)
++ */
++function nextContentRef(): string {
++  return `c${++cCounter}`;
+ }
+ 
+ /**
+@@ -303,7 +313,7 @@ export async function getEnhancedSnapshot(
+       if (existingTexts.has(elTextLower)) continue;
+       existingTexts.add(elTextLower);
+ 
+-      const ref = nextRef();
++      const ref = nextInteractiveRef();
+       const role = el.hasCursorPointer || el.hasOnClick ? 'clickable' : 'focusable';
+ 
+       refs[ref] = {
+@@ -400,7 +410,7 @@ function processAriaTree(ariaTree: string, refs: RefMap, options: SnapshotOption
+       const roleLower = role.toLowerCase();
+ 
+       if (INTERACTIVE_ROLES.has(roleLower)) {
+-        const ref = nextRef();
++        const ref = nextInteractiveRef();
+         const resolvedName = name ?? '';
+         const nth = tracker.getNextIndex(roleLower, resolvedName);
+         tracker.trackRef(roleLower, resolvedName, ref);
+@@ -520,15 +530,13 @@ function processLine(
+   }
+ 
+   // In compact mode, skip unnamed structural elements
+-  if (options.compact && isStructural && !name) {
+-    return null;
+-  }
++  // Compact filtering deferred to compactTree()
+ 
+   // Add ref for interactive or named content elements
+   const shouldHaveRef = isInteractive || (isContent && name);
+ 
+   if (shouldHaveRef) {
+-    const ref = nextRef();
++    const ref = isInteractive ? nextInteractiveRef() : nextContentRef();
+     // Normalize to "" so unnamed elements get exact-match selectors
+     const resolvedName = isInteractive ? (name ?? '') : name!;
+     const nth = tracker.getNextIndex(roleLower, resolvedName);
+@@ -603,14 +611,16 @@ function compactTree(tree: string): string {
+  * Parse a ref from command argument (e.g., "@e1" -> "e1")
+  */
+ export function parseRef(arg: string): string | null {
++  let ref: string | undefined;
+   if (arg.startsWith('@')) {
+-    return arg.slice(1);
++    ref = arg.slice(1);
++  } else if (arg.startsWith('ref=')) {
++    ref = arg.slice(4);
++  } else {
++    ref = arg;
+   }
+-  if (arg.startsWith('ref=')) {
+-    return arg.slice(4);
+-  }
+-  if (/^e\d+$/.test(arg)) {
+-    return arg;
++  if (/^[ec]\d+$/.test(ref)) {
++    return ref;
+   }
+   return null;
+ }
+@@ -638,3 +648,20 @@ export function getSnapshotStats(
+     interactive,
+   };
+ }
++
++/**
++ * Generate a random 8-character hex nonce for content boundary markers.
++ */
++export function generateBoundaryNonce(): string {
++  return crypto.randomBytes(4).toString('hex');
++}
++
++/**
++ * Wrap content with boundary markers to prevent prompt injection.
++ * The nonce makes each boundary unique, so injected content can't
++ * forge a matching end boundary.
++ */
++export function wrapWithBoundary(content: string, nonce?: string): string {
++  const n = nonce ?? generateBoundaryNonce();
++  return `---PAGE-CONTENT-BEGIN-${n}---\n${content}\n---PAGE-CONTENT-END-${n}---`;
++}

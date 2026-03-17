@@ -1,0 +1,7386 @@
+{
+  "cached_at": 1773646227974,
+  "data": {
+    "cityList": [
+      {
+        "cityId": 3531,
+        "cityName": "北京市",
+        "buildings": [
+          {
+            "buildingId": 843,
+            "buildingName": "北京/保利广场西座",
+            "floors": [
+              {
+                "floorId": 2001,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 2002,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 2003,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 884,
+            "buildingName": "北京/保利会议仓专区",
+            "floors": [
+              {
+                "floorId": 2069,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 2070,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 2071,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 876,
+            "buildingName": "北京/保利培训专区",
+            "floors": [
+              {
+                "floorId": 2057,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 2058,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 680,
+            "buildingName": "北京/朝来会议仓专区",
+            "floors": [
+              {
+                "floorId": 882,
+                "floorName": "13号楼2层"
+              },
+              {
+                "floorId": 883,
+                "floorName": "13号楼3层"
+              },
+              {
+                "floorId": 884,
+                "floorName": "13号楼4层"
+              },
+              {
+                "floorId": 885,
+                "floorName": "13号楼5层"
+              },
+              {
+                "floorId": 886,
+                "floorName": "13号楼6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 410,
+            "buildingName": "北京/朝来培训专区",
+            "floors": [
+              {
+                "floorId": 1711,
+                "floorName": "11号楼1层"
+              },
+              {
+                "floorId": 1712,
+                "floorName": "11号楼7层"
+              },
+              {
+                "floorId": 1268,
+                "floorName": "13号楼1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 620,
+            "buildingName": "北京/朝来西区11号楼",
+            "floors": [
+              {
+                "floorId": 1645,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1647,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1648,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1649,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1581,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1582,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1650,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1873,
+                "floorName": "B1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 282,
+            "buildingName": "北京/朝来西区13号楼",
+            "floors": [
+              {
+                "floorId": 864,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 865,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 866,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 867,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 868,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 869,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 813,
+            "buildingName": "北京/朝来西区1号楼",
+            "floors": [
+              {
+                "floorId": 1961,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1966,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1962,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1963,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1964,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1965,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1967,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1960,
+                "floorName": "B1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 777,
+            "buildingName": "北京/创意园B座",
+            "floors": [
+              {
+                "floorId": 1893,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1948,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1894,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1895,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1896,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1897,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1898,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1899,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1900,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1901,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1902,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1949,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 1950,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1951,
+                "floorName": "16层"
+              },
+              {
+                "floorId": 1952,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 1953,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 1954,
+                "floorName": "19层"
+              }
+            ]
+          },
+          {
+            "buildingId": 781,
+            "buildingName": "北京/创意园B座培训专区",
+            "floors": [
+              {
+                "floorId": 1909,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1910,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1911,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 326,
+            "buildingName": "北京/鼎成中心A座",
+            "floors": [
+              {
+                "floorId": 1003,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1004,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1005,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1006,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1007,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1008,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1009,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1010,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1011,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1012,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1013,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1056,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 327,
+            "buildingName": "北京/鼎成中心B座",
+            "floors": [
+              {
+                "floorId": 1014,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1015,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1016,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1017,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1018,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1019,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1020,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1021,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1022,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1023,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1024,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1025,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 2080,
+                "floorName": "B1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 328,
+            "buildingName": "北京/鼎成中心C座",
+            "floors": [
+              {
+                "floorId": 1027,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1028,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1029,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1030,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1031,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1032,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1033,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1034,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1035,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1036,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1037,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1038,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 329,
+            "buildingName": "北京/鼎成中心D座",
+            "floors": [
+              {
+                "floorId": 1039,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1040,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1043,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1041,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1042,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1044,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1045,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1046,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1047,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1048,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1049,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1050,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1051,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 683,
+            "buildingName": "北京/鼎成中心会议仓专区",
+            "floors": [
+              {
+                "floorId": 1075,
+                "floorName": "A座1层"
+              },
+              {
+                "floorId": 1076,
+                "floorName": "B座1层"
+              },
+              {
+                "floorId": 1077,
+                "floorName": "D座1层"
+              },
+              {
+                "floorId": 1081,
+                "floorName": "D座2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 749,
+            "buildingName": "北京/鼎成中心面试间专区",
+            "floors": [
+              {
+                "floorId": 1823,
+                "floorName": "D座2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 395,
+            "buildingName": "北京/鼎成中心培训专区",
+            "floors": [
+              {
+                "floorId": 1832,
+                "floorName": "A座10层"
+              },
+              {
+                "floorId": 1833,
+                "floorName": "A座13层"
+              },
+              {
+                "floorId": 1825,
+                "floorName": "A座4层"
+              },
+              {
+                "floorId": 1829,
+                "floorName": "A座7层"
+              },
+              {
+                "floorId": 1836,
+                "floorName": "B座10层"
+              },
+              {
+                "floorId": 1837,
+                "floorName": "B座13层"
+              },
+              {
+                "floorId": 1834,
+                "floorName": "B座4层"
+              },
+              {
+                "floorId": 1835,
+                "floorName": "B座7层"
+              },
+              {
+                "floorId": 1840,
+                "floorName": "C座10层"
+              },
+              {
+                "floorId": 1841,
+                "floorName": "C座13层"
+              },
+              {
+                "floorId": 1838,
+                "floorName": "C座4层"
+              },
+              {
+                "floorId": 1839,
+                "floorName": "C座7层"
+              },
+              {
+                "floorId": 1830,
+                "floorName": "D座10层"
+              },
+              {
+                "floorId": 1831,
+                "floorName": "D座13层"
+              },
+              {
+                "floorId": 1230,
+                "floorName": "D座2层"
+              },
+              {
+                "floorId": 1826,
+                "floorName": "D座4层"
+              },
+              {
+                "floorId": 1827,
+                "floorName": "D座7层"
+              },
+              {
+                "floorId": 1828,
+                "floorName": "D座8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 104,
+            "buildingName": "北京/恒电大厦B座",
+            "floors": [
+              {
+                "floorId": 360,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 323,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 325,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 327,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 330,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 522,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 340,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 341,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 103,
+            "buildingName": "北京/恒电大厦C座",
+            "floors": [
+              {
+                "floorId": 322,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 324,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 326,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 329,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 332,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 125,
+            "buildingName": "北京/恒电大厦C座 面试专区",
+            "floors": [
+              {
+                "floorId": 365,
+                "floorName": "1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 674,
+            "buildingName": "北京/恒电大厦会议仓专区",
+            "floors": [
+              {
+                "floorId": 617,
+                "floorName": "B座2层"
+              },
+              {
+                "floorId": 531,
+                "floorName": "B座3层"
+              },
+              {
+                "floorId": 532,
+                "floorName": "B座4层"
+              },
+              {
+                "floorId": 533,
+                "floorName": "B座5层"
+              },
+              {
+                "floorId": 622,
+                "floorName": "B座7层"
+              },
+              {
+                "floorId": 623,
+                "floorName": "B座8层"
+              },
+              {
+                "floorId": 618,
+                "floorName": "C座2层"
+              },
+              {
+                "floorId": 619,
+                "floorName": "C座3层"
+              },
+              {
+                "floorId": 620,
+                "floorName": "C座4层"
+              },
+              {
+                "floorId": 621,
+                "floorName": "C座5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 394,
+            "buildingName": "北京/恒电大厦培训专区",
+            "floors": [
+              {
+                "floorId": 1229,
+                "floorName": "B座6层"
+              },
+              {
+                "floorId": 1259,
+                "floorName": "C座1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 86,
+            "buildingName": "北京/科创A座",
+            "floors": [
+              {
+                "floorId": 1002,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 272,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 273,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 274,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 275,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1908,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1591,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 685,
+            "buildingName": "北京/科创培训专区",
+            "floors": [
+              {
+                "floorId": 1707,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 251,
+            "buildingName": "北京/融新大厦A座",
+            "floors": [
+              {
+                "floorId": 761,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 762,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 763,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 764,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 765,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 766,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 767,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 768,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 770,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 771,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 772,
+                "floorName": "16层"
+              },
+              {
+                "floorId": 773,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 774,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 775,
+                "floorName": "19层"
+              },
+              {
+                "floorId": 776,
+                "floorName": "20层"
+              },
+              {
+                "floorId": 777,
+                "floorName": "21层"
+              }
+            ]
+          },
+          {
+            "buildingId": 704,
+            "buildingName": "北京/融新大厦B座",
+            "floors": [
+              {
+                "floorId": 1752,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1753,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1754,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1755,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1756,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1757,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1758,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1759,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1760,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1761,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1762,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 696,
+            "buildingName": "北京/融新大厦E座",
+            "floors": [
+              {
+                "floorId": 1793,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1794,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1730,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1731,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1732,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1733,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1734,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1735,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1736,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1737,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1795,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 252,
+            "buildingName": "北京/融新大厦F座",
+            "floors": [
+              {
+                "floorId": 870,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 871,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 778,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 779,
+                "floorName": "16层"
+              },
+              {
+                "floorId": 780,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 781,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 782,
+                "floorName": "19层"
+              },
+              {
+                "floorId": 783,
+                "floorName": "20层"
+              },
+              {
+                "floorId": 784,
+                "floorName": "21层"
+              },
+              {
+                "floorId": 785,
+                "floorName": "22层"
+              },
+              {
+                "floorId": 786,
+                "floorName": "23层"
+              },
+              {
+                "floorId": 787,
+                "floorName": "25层"
+              }
+            ]
+          },
+          {
+            "buildingId": 679,
+            "buildingName": "北京/融新大厦会议仓专区",
+            "floors": [
+              {
+                "floorId": 1861,
+                "floorName": "A座15层"
+              },
+              {
+                "floorId": 1862,
+                "floorName": "A座17层"
+              },
+              {
+                "floorId": 1687,
+                "floorName": "A座21层"
+              },
+              {
+                "floorId": 1684,
+                "floorName": "A座3层"
+              },
+              {
+                "floorId": 1685,
+                "floorName": "A座6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 744,
+            "buildingName": "北京/融新大厦面试间专区",
+            "floors": [
+              {
+                "floorId": 1816,
+                "floorName": "A座12层"
+              },
+              {
+                "floorId": 1817,
+                "floorName": "E座1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 408,
+            "buildingName": "北京/融新培训专区",
+            "floors": [
+              {
+                "floorId": 1266,
+                "floorName": "A座13层"
+              },
+              {
+                "floorId": 1265,
+                "floorName": "A座3层"
+              },
+              {
+                "floorId": 1763,
+                "floorName": "B座1层"
+              },
+              {
+                "floorId": 1764,
+                "floorName": "B座9层"
+              },
+              {
+                "floorId": 1798,
+                "floorName": "E座13层"
+              },
+              {
+                "floorId": 1796,
+                "floorName": "E座2层"
+              },
+              {
+                "floorId": 1797,
+                "floorName": "E座3层"
+              },
+              {
+                "floorId": 1806,
+                "floorName": "F座17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 216,
+            "buildingName": "北京/锐创大厦A座",
+            "floors": [
+              {
+                "floorId": 809,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 638,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 810,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 639,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 672,
+                "floorName": "16层"
+              },
+              {
+                "floorId": 874,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 875,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 637,
+                "floorName": "19层"
+              },
+              {
+                "floorId": 673,
+                "floorName": "20层"
+              },
+              {
+                "floorId": 674,
+                "floorName": "21层"
+              }
+            ]
+          },
+          {
+            "buildingId": 135,
+            "buildingName": "北京/锐创大厦B座",
+            "floors": [
+              {
+                "floorId": 386,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 387,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 388,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 389,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 748,
+            "buildingName": "北京/锐创面试间专区",
+            "floors": [
+              {
+                "floorId": 1821,
+                "floorName": "A座1层"
+              },
+              {
+                "floorId": 1822,
+                "floorName": "B座1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 406,
+            "buildingName": "北京/锐创培训专区",
+            "floors": [
+              {
+                "floorId": 1260,
+                "floorName": "A座17层"
+              },
+              {
+                "floorId": 1261,
+                "floorName": "A座18层"
+              },
+              {
+                "floorId": 1262,
+                "floorName": "A座20层"
+              },
+              {
+                "floorId": 1813,
+                "floorName": "B座3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 384,
+            "buildingName": "北京/尚唐7号楼",
+            "floors": [
+              {
+                "floorId": 1573,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1214,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 337,
+            "buildingName": "北京/尚唐8号楼",
+            "floors": [
+              {
+                "floorId": 1071,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 353,
+            "buildingName": "北京/尚唐9号楼",
+            "floors": [
+              {
+                "floorId": 1128,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 676,
+            "buildingName": "北京/太极会议仓专区",
+            "floors": [
+              {
+                "floorId": 1674,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1675,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1676,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1677,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1678,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 745,
+            "buildingName": "北京/太极面试间专区",
+            "floors": [
+              {
+                "floorId": 1819,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 409,
+            "buildingName": "北京/太极培训专区",
+            "floors": [
+              {
+                "floorId": 1267,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 148,
+            "buildingName": "北京/太极信息产业园",
+            "floors": [
+              {
+                "floorId": 482,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 439,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 440,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 513,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 682,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 685,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 119,
+            "buildingName": "北京/研发园B/C座",
+            "floors": [
+              {
+                "floorId": 566,
+                "floorName": "3B层"
+              },
+              {
+                "floorId": 391,
+                "floorName": "3C层"
+              },
+              {
+                "floorId": 1535,
+                "floorName": "4B层"
+              },
+              {
+                "floorId": 1592,
+                "floorName": "4C层"
+              }
+            ]
+          },
+          {
+            "buildingId": 213,
+            "buildingName": "北京/研发园D/E座",
+            "floors": [
+              {
+                "floorId": 641,
+                "floorName": "2E层"
+              },
+              {
+                "floorId": 612,
+                "floorName": "3D层"
+              },
+              {
+                "floorId": 690,
+                "floorName": "3E层"
+              },
+              {
+                "floorId": 613,
+                "floorName": "4D层"
+              },
+              {
+                "floorId": 640,
+                "floorName": "4E层"
+              }
+            ]
+          },
+          {
+            "buildingId": 85,
+            "buildingName": "北京/研发园F/G座",
+            "floors": [
+              {
+                "floorId": 262,
+                "floorName": "1F层南"
+              },
+              {
+                "floorId": 263,
+                "floorName": "1G层北"
+              },
+              {
+                "floorId": 264,
+                "floorName": "2F层南"
+              },
+              {
+                "floorId": 265,
+                "floorName": "2G层北"
+              },
+              {
+                "floorId": 266,
+                "floorName": "3F层南"
+              },
+              {
+                "floorId": 267,
+                "floorName": "3G层北"
+              },
+              {
+                "floorId": 268,
+                "floorName": "4F层南"
+              },
+              {
+                "floorId": 269,
+                "floorName": "4G层北"
+              }
+            ]
+          },
+          {
+            "buildingId": 678,
+            "buildingName": "北京/研发园会议仓专区",
+            "floors": [
+              {
+                "floorId": 642,
+                "floorName": "E座2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 750,
+            "buildingName": "北京/研发园面试间专区",
+            "floors": [
+              {
+                "floorId": 1858,
+                "floorName": "B座3层"
+              },
+              {
+                "floorId": 1824,
+                "floorName": "G座1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 405,
+            "buildingName": "北京/研发园培训专区",
+            "floors": [
+              {
+                "floorId": 1536,
+                "floorName": "BC座4B层"
+              },
+              {
+                "floorId": 1632,
+                "floorName": "BC座4C层"
+              },
+              {
+                "floorId": 1258,
+                "floorName": "FG座2F层南"
+              },
+              {
+                "floorId": 1709,
+                "floorName": "FG座3F层南"
+              },
+              {
+                "floorId": 1708,
+                "floorName": "FG座4F层南"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3530,
+        "cityName": "冥王星",
+        "buildings": [
+          {
+            "buildingId": 734,
+            "buildingName": "无效巴西大厦",
+            "floors": [
+              {
+                "floorId": 2047,
+                "floorName": "1F"
+              },
+              {
+                "floorId": 2049,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 868,
+            "buildingName": "无效北京区域大厦",
+            "floors": [
+              {
+                "floorId": 2044,
+                "floorName": "1F"
+              },
+              {
+                "floorId": 2048,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 162,
+            "buildingName": "无效大厦",
+            "floors": [
+              {
+                "floorId": 505,
+                "floorName": "1F"
+              },
+              {
+                "floorId": 506,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 507,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 630,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 504,
+                "floorName": "恒电6层-B座1"
+              }
+            ]
+          },
+          {
+            "buildingId": 871,
+            "buildingName": "无效大厦灰度外",
+            "floors": [
+              {
+                "floorId": 2051,
+                "floorName": "1F"
+              }
+            ]
+          },
+          {
+            "buildingId": 869,
+            "buildingName": "无效沙特大厦",
+            "floors": [
+              {
+                "floorId": 2043,
+                "floorName": "1F"
+              },
+              {
+                "floorId": 2045,
+                "floorName": "2F"
+              },
+              {
+                "floorId": 2046,
+                "floorName": "3F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3532,
+        "cityName": "上海市",
+        "buildings": [
+          {
+            "buildingId": 694,
+            "buildingName": "上海/互联B2栋",
+            "floors": [
+              {
+                "floorId": 1723,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1724,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1725,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 841,
+            "buildingName": "上海/互联B3栋",
+            "floors": [
+              {
+                "floorId": 1999,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 794,
+            "buildingName": "上海/互联B5栋",
+            "floors": [
+              {
+                "floorId": 1928,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1929,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1930,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 335,
+            "buildingName": "上海/互联D2栋",
+            "floors": [
+              {
+                "floorId": 1062,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1065,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1066,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1067,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1068,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 401,
+            "buildingName": "上海/互联D3栋",
+            "floors": [
+              {
+                "floorId": 1610,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1244,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1321,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1308,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1765,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 383,
+            "buildingName": "上海/互联T6栋",
+            "floors": [
+              {
+                "floorId": 1213,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1207,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1208,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1209,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1210,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1211,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1212,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1196,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1197,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1198,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1199,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1200,
+                "floorName": "16层"
+              },
+              {
+                "floorId": 1201,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 1202,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 1203,
+                "floorName": "19层"
+              },
+              {
+                "floorId": 1204,
+                "floorName": "20层"
+              },
+              {
+                "floorId": 1205,
+                "floorName": "21层"
+              },
+              {
+                "floorId": 1206,
+                "floorName": "22层"
+              }
+            ]
+          },
+          {
+            "buildingId": 691,
+            "buildingName": "上海/互联会议仓专区",
+            "floors": [
+              {
+                "floorId": 1726,
+                "floorName": "B2栋2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 732,
+            "buildingName": "上海/互联面试间专区",
+            "floors": [
+              {
+                "floorId": 1815,
+                "floorName": "B2栋1层"
+              },
+              {
+                "floorId": 1814,
+                "floorName": "D2栋1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 396,
+            "buildingName": "上海/互联培训室专区",
+            "floors": [
+              {
+                "floorId": 1738,
+                "floorName": "B2栋1层"
+              },
+              {
+                "floorId": 1931,
+                "floorName": "B5栋2层"
+              },
+              {
+                "floorId": 1255,
+                "floorName": "D2栋1层"
+              },
+              {
+                "floorId": 1256,
+                "floorName": "D2栋2层"
+              },
+              {
+                "floorId": 1257,
+                "floorName": "D2栋3层"
+              },
+              {
+                "floorId": 1782,
+                "floorName": "D3栋3层"
+              },
+              {
+                "floorId": 1766,
+                "floorName": "D3栋5层"
+              },
+              {
+                "floorId": 1249,
+                "floorName": "T6栋11层"
+              },
+              {
+                "floorId": 1250,
+                "floorName": "T6栋15层"
+              },
+              {
+                "floorId": 1251,
+                "floorName": "T6栋17层"
+              },
+              {
+                "floorId": 1231,
+                "floorName": "T6栋2层"
+              },
+              {
+                "floorId": 1252,
+                "floorName": "T6栋5层"
+              },
+              {
+                "floorId": 1253,
+                "floorName": "T6栋7层"
+              },
+              {
+                "floorId": 1254,
+                "floorName": "T6栋9层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3536,
+        "cityName": "成都市",
+        "buildings": [
+          {
+            "buildingId": 669,
+            "buildingName": "成都/i office",
+            "floors": [
+              {
+                "floorId": 1653,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1654,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1744,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 743,
+            "buildingName": "成都/i office面试专区",
+            "floors": [
+              {
+                "floorId": 1845,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 735,
+            "buildingName": "成都/i office培训专区",
+            "floors": [
+              {
+                "floorId": 1842,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1843,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1844,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 312,
+            "buildingName": "成都/吉泰壹号",
+            "floors": [
+              {
+                "floorId": 954,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 955,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 956,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 957,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 958,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 736,
+            "buildingName": "成都/吉泰壹号面试间专区",
+            "floors": [
+              {
+                "floorId": 1846,
+                "floorName": "1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 414,
+            "buildingName": "成都/吉泰壹号培训专区",
+            "floors": [
+              {
+                "floorId": 1272,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 547,
+            "buildingName": "成都/世外桃源（总部）",
+            "floors": [
+              {
+                "floorId": 2032,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1465,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1657,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 2109,
+                "floorName": "26层"
+              }
+            ]
+          },
+          {
+            "buildingId": 737,
+            "buildingName": "成都/世外桃源（总部）培训专区",
+            "floors": [
+              {
+                "floorId": 2011,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1852,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 713,
+            "buildingName": "成都/双楠岛文创园区",
+            "floors": [
+              {
+                "floorId": 1777,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1778,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1779,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1780,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 738,
+            "buildingName": "成都/双楠岛文创园区培训专区",
+            "floors": [
+              {
+                "floorId": 1854,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1855,
+                "floorName": "7层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3608,
+        "cityName": "合肥市",
+        "buildings": [
+          {
+            "buildingId": 799,
+            "buildingName": "合肥/新交通大厦（总部电销）",
+            "floors": [
+              {
+                "floorId": 1937,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1938,
+                "floorName": "34层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3587,
+        "cityName": "洛阳市",
+        "buildings": [
+          {
+            "buildingId": 369,
+            "buildingName": "洛阳/北航",
+            "floors": [
+              {
+                "floorId": 1170,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1171,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1172,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1173,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1174,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1175,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1176,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1177,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1178,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1169,
+                "floorName": "B1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 894,
+            "buildingName": "洛阳/北航面试间专区",
+            "floors": [
+              {
+                "floorId": 2087,
+                "floorName": "B1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 893,
+            "buildingName": "洛阳/北航培训专区",
+            "floors": [
+              {
+                "floorId": 2086,
+                "floorName": "2层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3575,
+        "cityName": "南通市",
+        "buildings": [
+          {
+            "buildingId": 266,
+            "buildingName": "南通/云峯中心",
+            "floors": [
+              {
+                "floorId": 823,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 824,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 825,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 752,
+            "buildingName": "南通/云峯中心面试间专区",
+            "floors": [
+              {
+                "floorId": 1857,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 417,
+            "buildingName": "南通/云峯中心培训专区",
+            "floors": [
+              {
+                "floorId": 1275,
+                "floorName": "8层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3572,
+        "cityName": "深圳市",
+        "buildings": [
+          {
+            "buildingId": 304,
+            "buildingName": "深圳/格兰达实验室",
+            "floors": [
+              {
+                "floorId": 940,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 398,
+            "buildingName": "深圳/鸿创科技中心5栋",
+            "floors": [
+              {
+                "floorId": 1883,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1238,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 229,
+            "buildingName": "深圳/汇隆商务中心",
+            "floors": [
+              {
+                "floorId": 693,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 694,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 696,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 697,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 698,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 699,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 700,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 684,
+            "buildingName": "深圳/汇隆商务中心会议仓专区",
+            "floors": [
+              {
+                "floorId": 1699,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1701,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1702,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 1703,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1705,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 739,
+            "buildingName": "深圳/汇隆商务中心面试间专区",
+            "floors": [
+              {
+                "floorId": 1851,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 397,
+            "buildingName": "深圳/汇隆商务中心培训专区",
+            "floors": [
+              {
+                "floorId": 1232,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1233,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1234,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 1235,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1236,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 372,
+            "buildingName": "深圳/胜立实验室",
+            "floors": [
+              {
+                "floorId": 1185,
+                "floorName": "2层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3534,
+        "cityName": "石家庄市",
+        "buildings": [
+          {
+            "buildingId": 368,
+            "buildingName": "石家庄/国赫",
+            "floors": [
+              {
+                "floorId": 1152,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1153,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1154,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1155,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1156,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1157,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1158,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1159,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1160,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1161,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1162,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 1163,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1164,
+                "floorName": "16层"
+              },
+              {
+                "floorId": 1165,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 1166,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 1167,
+                "floorName": "19层"
+              },
+              {
+                "floorId": 1168,
+                "floorName": "20层"
+              },
+              {
+                "floorId": 1448,
+                "floorName": "21层"
+              },
+              {
+                "floorId": 1449,
+                "floorName": "22层"
+              }
+            ]
+          },
+          {
+            "buildingId": 895,
+            "buildingName": "石家庄/国赫面试间专区",
+            "floors": [
+              {
+                "floorId": 2088,
+                "floorName": "1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 413,
+            "buildingName": "石家庄/国赫培训专区",
+            "floors": [
+              {
+                "floorId": 1271,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 286,
+            "buildingName": "石家庄/梧桐商务",
+            "floors": [
+              {
+                "floorId": 915,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 914,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 913,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 900,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 899,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 898,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 897,
+                "floorName": "16层"
+              },
+              {
+                "floorId": 896,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 895,
+                "floorName": "18层"
+              }
+            ]
+          },
+          {
+            "buildingId": 412,
+            "buildingName": "石家庄/梧桐商务培训专区",
+            "floors": [
+              {
+                "floorId": 1270,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 2093,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 154,
+            "buildingName": "石家庄/中交",
+            "floors": [
+              {
+                "floorId": 1706,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 463,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 464,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 465,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 466,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 467,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 468,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 469,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 411,
+            "buildingName": "石家庄/中交培训专区",
+            "floors": [
+              {
+                "floorId": 2092,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1269,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 2091,
+                "floorName": "11层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3578,
+        "cityName": "武汉市",
+        "buildings": [
+          {
+            "buildingId": 418,
+            "buildingName": "武汉/宜科1号楼培训专区",
+            "floors": [
+              {
+                "floorId": 1276,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 419,
+            "buildingName": "武汉/宜科2号楼培训专区",
+            "floors": [
+              {
+                "floorId": 1277,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 420,
+            "buildingName": "武汉/宜科3号楼培训专区",
+            "floors": [
+              {
+                "floorId": 2090,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1278,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 340,
+            "buildingName": "武汉/宜科中心1号楼",
+            "floors": [
+              {
+                "floorId": 1082,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1083,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1084,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1085,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1086,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1087,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1088,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 341,
+            "buildingName": "武汉/宜科中心2号楼",
+            "floors": [
+              {
+                "floorId": 1089,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1090,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1091,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1092,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1093,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1094,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1095,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 342,
+            "buildingName": "武汉/宜科中心3号楼",
+            "floors": [
+              {
+                "floorId": 1096,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1097,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1098,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1099,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1100,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1101,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 762,
+            "buildingName": "武汉/宜科中心3号楼面试间专区",
+            "floors": [
+              {
+                "floorId": 1872,
+                "floorName": "2层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3586,
+        "cityName": "西安市",
+        "buildings": [
+          {
+            "buildingId": 355,
+            "buildingName": "西安/五路口民生大厦",
+            "floors": [
+              {
+                "floorId": 1132,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 742,
+            "buildingName": "西安/五路口民生大厦面试间专区",
+            "floors": [
+              {
+                "floorId": 1853,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 421,
+            "buildingName": "西安/五路口民生培训专区",
+            "floors": [
+              {
+                "floorId": 1279,
+                "floorName": "3层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3538,
+        "cityName": "扬州市",
+        "buildings": [
+          {
+            "buildingId": 310,
+            "buildingName": "扬州/信服1号楼",
+            "floors": [
+              {
+                "floorId": 947,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 948,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 949,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 751,
+            "buildingName": "扬州/信服1号楼面试间专区",
+            "floors": [
+              {
+                "floorId": 1856,
+                "floorName": "1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 415,
+            "buildingName": "扬州/信服1号楼培训专区",
+            "floors": [
+              {
+                "floorId": 1274,
+                "floorName": "1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 112,
+            "buildingName": "扬州/信服7号楼",
+            "floors": [
+              {
+                "floorId": 342,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 343,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 344,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 345,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 346,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 896,
+            "buildingName": "扬州/信服7号楼面试间专区",
+            "floors": [
+              {
+                "floorId": 2089,
+                "floorName": "1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 416,
+            "buildingName": "扬州/信服7号楼培训专区",
+            "floors": [
+              {
+                "floorId": 1273,
+                "floorName": "1层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3582,
+        "cityName": "张家口（宣化）",
+        "buildings": [
+          {
+            "buildingId": 311,
+            "buildingName": "张家口/兴英大厦",
+            "floors": [
+              {
+                "floorId": 950,
+                "floorName": "3F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3584,
+        "cityName": "重庆市",
+        "buildings": [
+          {
+            "buildingId": 332,
+            "buildingName": "重庆/龙湖光年",
+            "floors": [
+              {
+                "floorId": 1055,
+                "floorName": "24层"
+              }
+            ]
+          },
+          {
+            "buildingId": 740,
+            "buildingName": "重庆/龙湖光年培训专区",
+            "floors": [
+              {
+                "floorId": 1850,
+                "floorName": "24层"
+              }
+            ]
+          },
+          {
+            "buildingId": 316,
+            "buildingName": "重庆/自贸大厦",
+            "floors": [
+              {
+                "floorId": 1290,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1903,
+                "floorName": "4层（裙楼）"
+              },
+              {
+                "floorId": 1644,
+                "floorName": "5层（裙楼）"
+              },
+              {
+                "floorId": 968,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 969,
+                "floorName": "16层"
+              }
+            ]
+          },
+          {
+            "buildingId": 741,
+            "buildingName": "重庆/自贸大厦培训专区",
+            "floors": [
+              {
+                "floorId": 1847,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1904,
+                "floorName": "4层（裙楼）"
+              },
+              {
+                "floorId": 1849,
+                "floorName": "16层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3563,
+        "cityName": "东北(黑吉辽内蒙)",
+        "buildings": [
+          {
+            "buildingId": 804,
+            "buildingName": "包头/中环大厦",
+            "floors": [
+              {
+                "floorId": 1943,
+                "floorName": "19层"
+              }
+            ]
+          },
+          {
+            "buildingId": 818,
+            "buildingName": "本溪/赢心大厦",
+            "floors": [
+              {
+                "floorId": 1974,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 907,
+            "buildingName": "赤峰/东方永业城市广场",
+            "floors": [
+              {
+                "floorId": 2113,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 892,
+            "buildingName": "大连/恒泽天城",
+            "floors": [
+              {
+                "floorId": 2085,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 451,
+            "buildingName": "大连/平安大厦",
+            "floors": [
+              {
+                "floorId": 2100,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1326,
+                "floorName": "19层"
+              },
+              {
+                "floorId": 1327,
+                "floorName": "20层"
+              }
+            ]
+          },
+          {
+            "buildingId": 298,
+            "buildingName": "大庆/万达广场",
+            "floors": [
+              {
+                "floorId": 925,
+                "floorName": "21层"
+              }
+            ]
+          },
+          {
+            "buildingId": 173,
+            "buildingName": "哈尔滨/东方大厦",
+            "floors": [
+              {
+                "floorId": 1639,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 538,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 917,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 571,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1380,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1927,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 557,
+            "buildingName": "哈尔滨/裕发新城",
+            "floors": [
+              {
+                "floorId": 1478,
+                "floorName": "1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 174,
+            "buildingName": "呼和浩特/首府广场",
+            "floors": [
+              {
+                "floorId": 568,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 791,
+                "floorName": "16层"
+              },
+              {
+                "floorId": 1751,
+                "floorName": "20层"
+              }
+            ]
+          },
+          {
+            "buildingId": 622,
+            "buildingName": "佳木斯/财富国际大厦",
+            "floors": [
+              {
+                "floorId": 1585,
+                "floorName": "14F"
+              }
+            ]
+          },
+          {
+            "buildingId": 502,
+            "buildingName": "吉林/华业国际城",
+            "floors": [
+              {
+                "floorId": 1400,
+                "floorName": "16层"
+              }
+            ]
+          },
+          {
+            "buildingId": 553,
+            "buildingName": "锦州/茂业",
+            "floors": [
+              {
+                "floorId": 1474,
+                "floorName": "25层"
+              }
+            ]
+          },
+          {
+            "buildingId": 623,
+            "buildingName": "辽阳/银梦大厦",
+            "floors": [
+              {
+                "floorId": 1586,
+                "floorName": "14F"
+              }
+            ]
+          },
+          {
+            "buildingId": 554,
+            "buildingName": "盘锦/金融",
+            "floors": [
+              {
+                "floorId": 1990,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1475,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 350,
+            "buildingName": "沈阳/动漫世界",
+            "floors": [
+              {
+                "floorId": 1125,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 500,
+            "buildingName": "沈阳/富丽华大厦",
+            "floors": [
+              {
+                "floorId": 1398,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 452,
+            "buildingName": "沈阳/平安财富中心",
+            "floors": [
+              {
+                "floorId": 1776,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 2004,
+                "floorName": "22层"
+              },
+              {
+                "floorId": 1329,
+                "floorName": "27层"
+              },
+              {
+                "floorId": 1328,
+                "floorName": "30层"
+              }
+            ]
+          },
+          {
+            "buildingId": 555,
+            "buildingName": "松原/新宇开发",
+            "floors": [
+              {
+                "floorId": 1476,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 556,
+            "buildingName": "延边朝鲜族自治州/延边国际",
+            "floors": [
+              {
+                "floorId": 1477,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 551,
+            "buildingName": "营口/财富中心",
+            "floors": [
+              {
+                "floorId": 1472,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 176,
+            "buildingName": "长春/国际大厦",
+            "floors": [
+              {
+                "floorId": 1397,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 830,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 615,
+                "floorName": "21层"
+              }
+            ]
+          },
+          {
+            "buildingId": 544,
+            "buildingName": "长春/通钢国际大厦",
+            "floors": [
+              {
+                "floorId": 1460,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1459,
+                "floorName": "17层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3565,
+        "cityName": "东南(浙皖)",
+        "buildings": [
+          {
+            "buildingId": 723,
+            "buildingName": "蚌埠/拓基金座",
+            "floors": [
+              {
+                "floorId": 1802,
+                "floorName": "18层"
+              }
+            ]
+          },
+          {
+            "buildingId": 644,
+            "buildingName": "亳州/魏武大厦",
+            "floors": [
+              {
+                "floorId": 1615,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 815,
+            "buildingName": "滁州/百诚大厦",
+            "floors": []
+          },
+          {
+            "buildingId": 814,
+            "buildingName": "奉化/时代金茂城市广场",
+            "floors": [
+              {
+                "floorId": 1968,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 566,
+            "buildingName": "阜阳/怡和城市",
+            "floors": [
+              {
+                "floorId": 1490,
+                "floorName": "15层"
+              }
+            ]
+          },
+          {
+            "buildingId": 755,
+            "buildingName": "杭州/海智中心",
+            "floors": [
+              {
+                "floorId": 1863,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 392,
+            "buildingName": "杭州/合诚之江大厦",
+            "floors": [
+              {
+                "floorId": 1226,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 584,
+            "buildingName": "杭州/华元大厦",
+            "floors": [
+              {
+                "floorId": 1518,
+                "floorName": "31层"
+              }
+            ]
+          },
+          {
+            "buildingId": 447,
+            "buildingName": "杭州/南樾府",
+            "floors": [
+              {
+                "floorId": 1320,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 627,
+            "buildingName": "杭州/尚坤云街",
+            "floors": [
+              {
+                "floorId": 1590,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 699,
+            "buildingName": "杭州/山水时代",
+            "floors": [
+              {
+                "floorId": 1743,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 767,
+            "buildingName": "杭州/铁牛创新中心",
+            "floors": [
+              {
+                "floorId": 1879,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 760,
+            "buildingName": "杭州/西溪八方城",
+            "floors": [
+              {
+                "floorId": 1973,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 177,
+            "buildingName": "杭州/野风现代中心",
+            "floors": [
+              {
+                "floorId": 821,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 539,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1466,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 590,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 540,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 999,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 822,
+                "floorName": "18层"
+              }
+            ]
+          },
+          {
+            "buildingId": 642,
+            "buildingName": "合肥/北城世纪城",
+            "floors": [
+              {
+                "floorId": 1613,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 848,
+            "buildingName": "合肥/德必庐州WE",
+            "floors": [
+              {
+                "floorId": 2015,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 641,
+            "buildingName": "合肥/绿地新都会",
+            "floors": [
+              {
+                "floorId": 1612,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 653,
+            "buildingName": "合肥/五环城和颂阁",
+            "floors": [
+              {
+                "floorId": 1625,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 387,
+            "buildingName": "合肥/新交通大厦",
+            "floors": [
+              {
+                "floorId": 1947,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1217,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1218,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 1338,
+                "floorName": "18层"
+              }
+            ]
+          },
+          {
+            "buildingId": 798,
+            "buildingName": "合肥/新交通大厦-政府接待室",
+            "floors": [
+              {
+                "floorId": 1936,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 643,
+            "buildingName": "淮北/国购B座",
+            "floors": [
+              {
+                "floorId": 1614,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 565,
+            "buildingName": "黄山/天盈财富",
+            "floors": []
+          },
+          {
+            "buildingId": 281,
+            "buildingName": "湖州/苏宁大厦",
+            "floors": [
+              {
+                "floorId": 863,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 590,
+            "buildingName": "嘉兴/世纪商业中心",
+            "floors": [
+              {
+                "floorId": 1529,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 850,
+            "buildingName": "嘉兴/文化传媒广场",
+            "floors": [
+              {
+                "floorId": 2017,
+                "floorName": "15层"
+              }
+            ]
+          },
+          {
+            "buildingId": 605,
+            "buildingName": "嘉兴/新世界广场",
+            "floors": [
+              {
+                "floorId": 1555,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 301,
+            "buildingName": "金华/稠州大厦",
+            "floors": [
+              {
+                "floorId": 934,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 900,
+            "buildingName": "金华/东阳东部中心",
+            "floors": [
+              {
+                "floorId": 2099,
+                "floorName": "20"
+              }
+            ]
+          },
+          {
+            "buildingId": 338,
+            "buildingName": "金华/万达广场",
+            "floors": [
+              {
+                "floorId": 1334,
+                "floorName": "21层"
+              },
+              {
+                "floorId": 1322,
+                "floorName": "27层"
+              }
+            ]
+          },
+          {
+            "buildingId": 867,
+            "buildingName": "金华/浙中总部经济中心",
+            "floors": [
+              {
+                "floorId": 2042,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 631,
+            "buildingName": "临海/伟程时代广场",
+            "floors": [
+              {
+                "floorId": 1598,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 825,
+            "buildingName": "丽水/财富大厦",
+            "floors": [
+              {
+                "floorId": 1981,
+                "floorName": "16层"
+              }
+            ]
+          },
+          {
+            "buildingId": 455,
+            "buildingName": "丽水/金贸大厦",
+            "floors": [
+              {
+                "floorId": 1336,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 569,
+            "buildingName": "六安/振兴金融",
+            "floors": [
+              {
+                "floorId": 1494,
+                "floorName": "15层"
+              }
+            ]
+          },
+          {
+            "buildingId": 607,
+            "buildingName": "宁波/北仑金融中心",
+            "floors": [
+              {
+                "floorId": 1558,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 258,
+            "buildingName": "宁波/和邦大厦",
+            "floors": [
+              {
+                "floorId": 1335,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 794,
+                "floorName": "20层"
+              }
+            ]
+          },
+          {
+            "buildingId": 595,
+            "buildingName": "宁波/江北路林市场",
+            "floors": [
+              {
+                "floorId": 1537,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 434,
+            "buildingName": "宁波/绿地创智中心",
+            "floors": [
+              {
+                "floorId": 1300,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 585,
+            "buildingName": "宁波/宁海西子国际",
+            "floors": [
+              {
+                "floorId": 1521,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 323,
+            "buildingName": "宁波/奇乐大厦",
+            "floors": [
+              {
+                "floorId": 995,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 568,
+            "buildingName": "衢州/裕丰花园",
+            "floors": [
+              {
+                "floorId": 1493,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 686,
+            "buildingName": "绍兴/环宇总部壹号",
+            "floors": [
+              {
+                "floorId": 1710,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 181,
+            "buildingName": "绍兴/金昌昆仑国际",
+            "floors": [
+              {
+                "floorId": 588,
+                "floorName": "27层"
+              }
+            ]
+          },
+          {
+            "buildingId": 646,
+            "buildingName": "绍兴/文体大厦",
+            "floors": [
+              {
+                "floorId": 1617,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 796,
+            "buildingName": "宿州/元一新天地",
+            "floors": [
+              {
+                "floorId": 1933,
+                "floorName": "15层"
+              }
+            ]
+          },
+          {
+            "buildingId": 391,
+            "buildingName": "台州/豪成服务业大厦",
+            "floors": [
+              {
+                "floorId": 1224,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 330,
+            "buildingName": "台州/五联大厦",
+            "floors": [
+              {
+                "floorId": 1052,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 817,
+            "buildingName": "铜陵/财富广场B座",
+            "floors": [
+              {
+                "floorId": 1972,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 361,
+            "buildingName": "温州/财富中心",
+            "floors": [
+              {
+                "floorId": 1462,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1221,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1869,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 402,
+            "buildingName": "温州/金融创新产业园",
+            "floors": [
+              {
+                "floorId": 1245,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 902,
+            "buildingName": "温州/龙港财富中心",
+            "floors": [
+              {
+                "floorId": 2103,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 610,
+            "buildingName": "温州/银泰城C幢",
+            "floors": [
+              {
+                "floorId": 1565,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 567,
+            "buildingName": "温州/银祥大厦",
+            "floors": [
+              {
+                "floorId": 1566,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 464,
+            "buildingName": "温州/中瓯国际",
+            "floors": [
+              {
+                "floorId": 1342,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 849,
+            "buildingName": "芜湖/名铸广场C座",
+            "floors": [
+              {
+                "floorId": 2016,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 632,
+            "buildingName": "永康/金族大厦",
+            "floors": [
+              {
+                "floorId": 1599,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 422,
+            "buildingName": "舟山/建设大厦",
+            "floors": [
+              {
+                "floorId": 1280,
+                "floorName": "13层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3564,
+        "cityName": "华北(京津冀晋鲁豫)",
+        "buildings": [
+          {
+            "buildingId": 715,
+            "buildingName": "安阳/义乌商贸城",
+            "floors": [
+              {
+                "floorId": 1784,
+                "floorName": "15F"
+              }
+            ]
+          },
+          {
+            "buildingId": 662,
+            "buildingName": "安阳/义乌写字楼",
+            "floors": [
+              {
+                "floorId": 1634,
+                "floorName": "25层"
+              }
+            ]
+          },
+          {
+            "buildingId": 634,
+            "buildingName": "保定/水晶国际",
+            "floors": [
+              {
+                "floorId": 1652,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 1601,
+                "floorName": "19层"
+              }
+            ]
+          },
+          {
+            "buildingId": 842,
+            "buildingName": "北京/丰汇中心",
+            "floors": [
+              {
+                "floorId": 2000,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 2040,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 668,
+            "buildingName": "北京/京印国际中心",
+            "floors": [
+              {
+                "floorId": 1646,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1870,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 2060,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 164,
+            "buildingName": "北京/金长安大厦",
+            "floors": [
+              {
+                "floorId": 842,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 549,
+            "buildingName": "北京/绿地中央",
+            "floors": [
+              {
+                "floorId": 1469,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 780,
+            "buildingName": "北京/侨商中心",
+            "floors": [
+              {
+                "floorId": 1907,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 768,
+            "buildingName": "北京/首开LONG",
+            "floors": [
+              {
+                "floorId": 1881,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 302,
+            "buildingName": "北京/首开广场",
+            "floors": [
+              {
+                "floorId": 935,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 707,
+            "buildingName": "北京/数科公园",
+            "floors": [
+              {
+                "floorId": 1768,
+                "floorName": "1层"
+              },
+              {
+                "floorId": 1769,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 724,
+            "buildingName": "北京/数科公园-多功能会议室",
+            "floors": [
+              {
+                "floorId": 1803,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 239,
+            "buildingName": "北京/搜宝商务中心",
+            "floors": [
+              {
+                "floorId": 802,
+                "floorName": "25层"
+              }
+            ]
+          },
+          {
+            "buildingId": 835,
+            "buildingName": "北京/兴创大厦A座",
+            "floors": [
+              {
+                "floorId": 1991,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 496,
+            "buildingName": "北京/兴创国际中心",
+            "floors": [
+              {
+                "floorId": 1392,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 2111,
+                "floorName": "19"
+              }
+            ]
+          },
+          {
+            "buildingId": 373,
+            "buildingName": "北京/银科大厦",
+            "floors": [
+              {
+                "floorId": 2110,
+                "floorName": "10"
+              },
+              {
+                "floorId": 1186,
+                "floorName": "22层"
+              }
+            ]
+          },
+          {
+            "buildingId": 440,
+            "buildingName": "北京/雨霖大厦",
+            "floors": [
+              {
+                "floorId": 1309,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 284,
+            "buildingName": "北京/中关村大厦",
+            "floors": [
+              {
+                "floorId": 1396,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1468,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 905,
+            "buildingName": "登封/嵩山新天地",
+            "floors": [
+              {
+                "floorId": 2107,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 511,
+            "buildingName": "东营/金领国际",
+            "floors": [
+              {
+                "floorId": 1412,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 490,
+            "buildingName": "邯郸/鸿基大厦",
+            "floors": [
+              {
+                "floorId": 1385,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 1471,
+                "floorName": "26层"
+              }
+            ]
+          },
+          {
+            "buildingId": 499,
+            "buildingName": "衡水/智诚大厦",
+            "floors": [
+              {
+                "floorId": 2027,
+                "floorName": "7F"
+              },
+              {
+                "floorId": 1395,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 559,
+            "buildingName": "焦作/华融国际",
+            "floors": [
+              {
+                "floorId": 1483,
+                "floorName": "15层"
+              }
+            ]
+          },
+          {
+            "buildingId": 504,
+            "buildingName": "济南/奥盛大厦",
+            "floors": [
+              {
+                "floorId": 1402,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 516,
+            "buildingName": "济南/创新谷西城软件园",
+            "floors": [
+              {
+                "floorId": 1418,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 285,
+            "buildingName": "济南/天安时代广场",
+            "floors": [
+              {
+                "floorId": 892,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 893,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 515,
+            "buildingName": "济宁/兴唐大厦",
+            "floors": [
+              {
+                "floorId": 1717,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1417,
+                "floorName": "18层"
+              }
+            ]
+          },
+          {
+            "buildingId": 671,
+            "buildingName": "廊坊/富地广场",
+            "floors": [
+              {
+                "floorId": 1658,
+                "floorName": "31F"
+              }
+            ]
+          },
+          {
+            "buildingId": 495,
+            "buildingName": "廊坊/万达广场",
+            "floors": [
+              {
+                "floorId": 1390,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1391,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 2101,
+                "floorName": "17F"
+              }
+            ]
+          },
+          {
+            "buildingId": 618,
+            "buildingName": "廊坊/浙商广场",
+            "floors": []
+          },
+          {
+            "buildingId": 728,
+            "buildingName": "聊城/财富中心",
+            "floors": [
+              {
+                "floorId": 1808,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 514,
+            "buildingName": "临沂/银凤大厦",
+            "floors": [
+              {
+                "floorId": 1416,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1415,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 731,
+            "buildingName": "洛阳/九都城",
+            "floors": [
+              {
+                "floorId": 1811,
+                "floorName": "13F"
+              }
+            ]
+          },
+          {
+            "buildingId": 614,
+            "buildingName": "南阳/建业凯旋广场",
+            "floors": [
+              {
+                "floorId": 1574,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 727,
+            "buildingName": "濮阳/崛起时代",
+            "floors": [
+              {
+                "floorId": 1807,
+                "floorName": "10F"
+              }
+            ]
+          },
+          {
+            "buildingId": 508,
+            "buildingName": "青岛/国际商务港",
+            "floors": [
+              {
+                "floorId": 1970,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1407,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 846,
+            "buildingName": "青岛/黄海大厦",
+            "floors": [
+              {
+                "floorId": 2012,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 901,
+            "buildingName": "青岛/建国大厦",
+            "floors": [
+              {
+                "floorId": 2102,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 873,
+            "buildingName": "青岛/万通财富中心",
+            "floors": [
+              {
+                "floorId": 2054,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 649,
+            "buildingName": "青岛/盈丰科技",
+            "floors": []
+          },
+          {
+            "buildingId": 287,
+            "buildingName": "青岛/中广大厦",
+            "floors": [
+              {
+                "floorId": 902,
+                "floorName": "19层"
+              },
+              {
+                "floorId": 903,
+                "floorName": "21层"
+              },
+              {
+                "floorId": 904,
+                "floorName": "22层"
+              }
+            ]
+          },
+          {
+            "buildingId": 640,
+            "buildingName": "青岛胶州/宝龙大厦",
+            "floors": [
+              {
+                "floorId": 2073,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 491,
+            "buildingName": "秦皇岛/金原国际商务大厦",
+            "floors": [
+              {
+                "floorId": 1719,
+                "floorName": "17层"
+              },
+              {
+                "floorId": 1386,
+                "floorName": "26层"
+              }
+            ]
+          },
+          {
+            "buildingId": 845,
+            "buildingName": "日照/国际金融中心",
+            "floors": [
+              {
+                "floorId": 2010,
+                "floorName": "26层"
+              }
+            ]
+          },
+          {
+            "buildingId": 778,
+            "buildingName": "商丘/鼎合大厦",
+            "floors": [
+              {
+                "floorId": 1905,
+                "floorName": "21F"
+              },
+              {
+                "floorId": 1980,
+                "floorName": "21F"
+              }
+            ]
+          },
+          {
+            "buildingId": 609,
+            "buildingName": "石家庄/鹿城金座",
+            "floors": []
+          },
+          {
+            "buildingId": 839,
+            "buildingName": "石家庄/品汇广场",
+            "floors": [
+              {
+                "floorId": 1997,
+                "floorName": "3F"
+              }
+            ]
+          },
+          {
+            "buildingId": 865,
+            "buildingName": "泰安/梦想谷",
+            "floors": [
+              {
+                "floorId": 2039,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 263,
+            "buildingName": "太原/鼎太风华",
+            "floors": [
+              {
+                "floorId": 803,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 804,
+                "floorName": "19层"
+              }
+            ]
+          },
+          {
+            "buildingId": 834,
+            "buildingName": "唐山/凤城国贸",
+            "floors": [
+              {
+                "floorId": 1988,
+                "floorName": "19F"
+              }
+            ]
+          },
+          {
+            "buildingId": 550,
+            "buildingName": "天津/海福商厦",
+            "floors": [
+              {
+                "floorId": 1470,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 339,
+            "buildingName": "天津/合生国际大厦",
+            "floors": [
+              {
+                "floorId": 1079,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 1080,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 2014,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 290,
+            "buildingName": "天津/金融街",
+            "floors": [
+              {
+                "floorId": 911,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 497,
+            "buildingName": "天津/远通大厦",
+            "floors": [
+              {
+                "floorId": 1393,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 670,
+            "buildingName": "潍坊/泰华大厦B座",
+            "floors": [
+              {
+                "floorId": 1655,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 2036,
+                "floorName": "-1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 693,
+            "buildingName": "威海/中信大厦",
+            "floors": [
+              {
+                "floorId": 1720,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1721,
+                "floorName": "16层"
+              }
+            ]
+          },
+          {
+            "buildingId": 701,
+            "buildingName": "新乡/新闻大厦",
+            "floors": [
+              {
+                "floorId": 1747,
+                "floorName": "19F"
+              }
+            ]
+          },
+          {
+            "buildingId": 864,
+            "buildingName": "信阳/和谐广场",
+            "floors": [
+              {
+                "floorId": 2038,
+                "floorName": "6F"
+              }
+            ]
+          },
+          {
+            "buildingId": 722,
+            "buildingName": "信阳/林志信阳高科技孵化园",
+            "floors": [
+              {
+                "floorId": 1801,
+                "floorName": "4F"
+              }
+            ]
+          },
+          {
+            "buildingId": 617,
+            "buildingName": "宣化/佳友家居",
+            "floors": []
+          },
+          {
+            "buildingId": 654,
+            "buildingName": "许昌/大正中央金座",
+            "floors": [
+              {
+                "floorId": 1626,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 759,
+            "buildingName": "烟台/鲁东国际",
+            "floors": [
+              {
+                "floorId": 1867,
+                "floorName": "38层"
+              }
+            ]
+          },
+          {
+            "buildingId": 542,
+            "buildingName": "烟台/星颐广场",
+            "floors": [
+              {
+                "floorId": 1457,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 513,
+            "buildingName": "枣庄/金融大厦",
+            "floors": [
+              {
+                "floorId": 1414,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 863,
+            "buildingName": "张家口/张垣商务中心",
+            "floors": [
+              {
+                "floorId": 2037,
+                "floorName": "21F"
+              }
+            ]
+          },
+          {
+            "buildingId": 783,
+            "buildingName": "郑州/楷林国际",
+            "floors": [
+              {
+                "floorId": 1915,
+                "floorName": "6F"
+              }
+            ]
+          },
+          {
+            "buildingId": 188,
+            "buildingName": "郑州/兰德中心",
+            "floors": [
+              {
+                "floorId": 754,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 577,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 627,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 560,
+            "buildingName": "郑州/升龙环球",
+            "floors": [
+              {
+                "floorId": 1511,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1989,
+                "floorName": "11F"
+              },
+              {
+                "floorId": 1484,
+                "floorName": "27层"
+              }
+            ]
+          },
+          {
+            "buildingId": 615,
+            "buildingName": "郑州/中企国弘商业",
+            "floors": []
+          },
+          {
+            "buildingId": 754,
+            "buildingName": "驻马店/博雅写字楼",
+            "floors": [
+              {
+                "floorId": 1860,
+                "floorName": "4F"
+              }
+            ]
+          },
+          {
+            "buildingId": 510,
+            "buildingName": "淄博/德泰堂大厦",
+            "floors": [
+              {
+                "floorId": 1479,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1411,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1410,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 506,
+            "buildingName": "淄博/华润大厦",
+            "floors": [
+              {
+                "floorId": 1405,
+                "floorName": "6层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3566,
+        "cityName": "华东(苏沪)",
+        "buildings": [
+          {
+            "buildingId": 227,
+            "buildingName": "常州/新闻大厦",
+            "floors": [
+              {
+                "floorId": 675,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 432,
+            "buildingName": "淮安/金地中心",
+            "floors": [
+              {
+                "floorId": 1298,
+                "floorName": "32层"
+              }
+            ]
+          },
+          {
+            "buildingId": 855,
+            "buildingName": "淮安/苏宁广场",
+            "floors": [
+              {
+                "floorId": 2023,
+                "floorName": "8F"
+              }
+            ]
+          },
+          {
+            "buildingId": 256,
+            "buildingName": "昆山/森隆大厦",
+            "floors": [
+              {
+                "floorId": 1313,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 792,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 854,
+            "buildingName": "连云港/润潮国际",
+            "floors": [
+              {
+                "floorId": 2022,
+                "floorName": "21F"
+              }
+            ]
+          },
+          {
+            "buildingId": 853,
+            "buildingName": "连云港/时代广场",
+            "floors": [
+              {
+                "floorId": 2021,
+                "floorName": "9F"
+              }
+            ]
+          },
+          {
+            "buildingId": 404,
+            "buildingName": "南京/高铁网谷c座",
+            "floors": [
+              {
+                "floorId": 1247,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 356,
+            "buildingName": "南京/弘阳时代大厦",
+            "floors": [
+              {
+                "floorId": 1135,
+                "floorName": "21层"
+              }
+            ]
+          },
+          {
+            "buildingId": 221,
+            "buildingName": "南京/平安金融中心",
+            "floors": [
+              {
+                "floorId": 654,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 657,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1790,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1133,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 718,
+            "buildingName": "南京/平安金融中心-政府接待室",
+            "floors": [
+              {
+                "floorId": 1787,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 393,
+            "buildingName": "南通/尚景智谷",
+            "floors": [
+              {
+                "floorId": 1227,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 766,
+            "buildingName": "南通软件园",
+            "floors": [
+              {
+                "floorId": 1877,
+                "floorName": "5F"
+              }
+            ]
+          },
+          {
+            "buildingId": 442,
+            "buildingName": "上海/INNO创智天地",
+            "floors": []
+          },
+          {
+            "buildingId": 439,
+            "buildingName": "上海/百空间",
+            "floors": [
+              {
+                "floorId": 1538,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1306,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 1307,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 445,
+            "buildingName": "上海/半岛湾创意园区",
+            "floors": [
+              {
+                "floorId": 2007,
+                "floorName": "2F"
+              },
+              {
+                "floorId": 1317,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 429,
+            "buildingName": "上海/宝虹中心",
+            "floors": [
+              {
+                "floorId": 1293,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 880,
+            "buildingName": "上海/宝龙广场",
+            "floors": [
+              {
+                "floorId": 2065,
+                "floorName": "5F"
+              }
+            ]
+          },
+          {
+            "buildingId": 541,
+            "buildingName": "上海/芳华德必运动LOFT园区",
+            "floors": [
+              {
+                "floorId": 1456,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 712,
+            "buildingName": "上海/港陆广场",
+            "floors": [
+              {
+                "floorId": 1774,
+                "floorName": "16F"
+              }
+            ]
+          },
+          {
+            "buildingId": 540,
+            "buildingName": "上海/汉生科技产业园",
+            "floors": [
+              {
+                "floorId": 1453,
+                "floorName": "2A层"
+              }
+            ]
+          },
+          {
+            "buildingId": 437,
+            "buildingName": "上海/金桥151大厦",
+            "floors": [
+              {
+                "floorId": 1304,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 771,
+            "buildingName": "上海/骏利产业园",
+            "floors": [
+              {
+                "floorId": 1886,
+                "floorName": "3F"
+              }
+            ]
+          },
+          {
+            "buildingId": 366,
+            "buildingName": "上海/乐都大厦",
+            "floors": [
+              {
+                "floorId": 1149,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 1291,
+                "floorName": "16层"
+              }
+            ]
+          },
+          {
+            "buildingId": 193,
+            "buildingName": "上海/良友大厦",
+            "floors": [
+              {
+                "floorId": 594,
+                "floorName": "27层"
+              }
+            ]
+          },
+          {
+            "buildingId": 365,
+            "buildingName": "上海/力国大楼",
+            "floors": [
+              {
+                "floorId": 1148,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1292,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 2005,
+                "floorName": "7F"
+              }
+            ]
+          },
+          {
+            "buildingId": 351,
+            "buildingName": "上海/绿庭国际大厦",
+            "floors": [
+              {
+                "floorId": 1126,
+                "floorName": "16层"
+              }
+            ]
+          },
+          {
+            "buildingId": 194,
+            "buildingName": "上海/民润大厦",
+            "floors": [
+              {
+                "floorId": 1140,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 593,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 548,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 703,
+            "buildingName": "上海/世界贸易大厦",
+            "floors": [
+              {
+                "floorId": 1750,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 237,
+            "buildingName": "上海/文洋大厦",
+            "floors": [
+              {
+                "floorId": 1144,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 721,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 833,
+            "buildingName": "上海/文洋大厦B幢",
+            "floors": [
+              {
+                "floorId": 1987,
+                "floorName": "7F"
+              }
+            ]
+          },
+          {
+            "buildingId": 423,
+            "buildingName": "上海/星光耀广场",
+            "floors": [
+              {
+                "floorId": 1281,
+                "floorName": "3A层"
+              },
+              {
+                "floorId": 1661,
+                "floorName": "5F"
+              }
+            ]
+          },
+          {
+            "buildingId": 599,
+            "buildingName": "上海/新陆国际商务大厦",
+            "floors": [
+              {
+                "floorId": 1546,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 772,
+            "buildingName": "上海/中港汇浦东大厦",
+            "floors": [
+              {
+                "floorId": 1887,
+                "floorName": "8F"
+              }
+            ]
+          },
+          {
+            "buildingId": 803,
+            "buildingName": "上海/中暨大厦",
+            "floors": [
+              {
+                "floorId": 1942,
+                "floorName": "12F"
+              }
+            ]
+          },
+          {
+            "buildingId": 485,
+            "buildingName": "宿迁/名品虞姬城",
+            "floors": []
+          },
+          {
+            "buildingId": 443,
+            "buildingName": "宿迁/苏宁广场",
+            "floors": [
+              {
+                "floorId": 1314,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 656,
+            "buildingName": "苏州/博富科技大厦",
+            "floors": [
+              {
+                "floorId": 1628,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 426,
+            "buildingName": "苏州/华建大厦A幢",
+            "floors": [
+              {
+                "floorId": 1287,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 710,
+            "buildingName": "苏州/华旭大厦",
+            "floors": [
+              {
+                "floorId": 1773,
+                "floorName": "4F"
+              }
+            ]
+          },
+          {
+            "buildingId": 837,
+            "buildingName": "苏州/汇丰时代广场",
+            "floors": [
+              {
+                "floorId": 1993,
+                "floorName": "19F"
+              }
+            ]
+          },
+          {
+            "buildingId": 430,
+            "buildingName": "苏州/利通大厦",
+            "floors": [
+              {
+                "floorId": 1294,
+                "floorName": "1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 427,
+            "buildingName": "苏州/上领大厦",
+            "floors": [
+              {
+                "floorId": 1799,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1288,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1547,
+                "floorName": "16层"
+              }
+            ]
+          },
+          {
+            "buildingId": 836,
+            "buildingName": "苏州/世界贸易中心B幢",
+            "floors": [
+              {
+                "floorId": 1992,
+                "floorName": "23F"
+              }
+            ]
+          },
+          {
+            "buildingId": 486,
+            "buildingName": "苏州/世茂商务广场",
+            "floors": [
+              {
+                "floorId": 1553,
+                "floorName": "22层"
+              },
+              {
+                "floorId": 1377,
+                "floorName": "24层"
+              }
+            ]
+          },
+          {
+            "buildingId": 709,
+            "buildingName": "苏州/中海大厦",
+            "floors": [
+              {
+                "floorId": 1771,
+                "floorName": "9F"
+              },
+              {
+                "floorId": 1772,
+                "floorName": "10F"
+              }
+            ]
+          },
+          {
+            "buildingId": 626,
+            "buildingName": "泰州/天成国际",
+            "floors": [
+              {
+                "floorId": 1589,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 431,
+            "buildingName": "泰州/万达广场",
+            "floors": [
+              {
+                "floorId": 1297,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1296,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 625,
+            "buildingName": "泰州/中南世纪城",
+            "floors": [
+              {
+                "floorId": 1588,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 700,
+            "buildingName": "无锡/东氿大厦",
+            "floors": [
+              {
+                "floorId": 1745,
+                "floorName": "16A"
+              }
+            ]
+          },
+          {
+            "buildingId": 354,
+            "buildingName": "无锡/九方广场",
+            "floors": [
+              {
+                "floorId": 1129,
+                "floorName": "14层"
+              },
+              {
+                "floorId": 1130,
+                "floorName": "15层"
+              }
+            ]
+          },
+          {
+            "buildingId": 454,
+            "buildingName": "无锡/美豪大厦",
+            "floors": [
+              {
+                "floorId": 1332,
+                "floorName": "12"
+              }
+            ]
+          },
+          {
+            "buildingId": 487,
+            "buildingName": "无锡/万达广场",
+            "floors": [
+              {
+                "floorId": 1378,
+                "floorName": "31层"
+              }
+            ]
+          },
+          {
+            "buildingId": 802,
+            "buildingName": "无锡/锡山格菲",
+            "floors": [
+              {
+                "floorId": 1941,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 195,
+            "buildingName": "无锡/云蝠大厦",
+            "floors": [
+              {
+                "floorId": 554,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1568,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 273,
+            "buildingName": "徐州/恒盛广场",
+            "floors": [
+              {
+                "floorId": 844,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 538,
+            "buildingName": "盐城/钱江财富广场",
+            "floors": [
+              {
+                "floorId": 1451,
+                "floorName": "21层"
+              }
+            ]
+          },
+          {
+            "buildingId": 539,
+            "buildingName": "盐城/钱江财富广场东区",
+            "floors": [
+              {
+                "floorId": 1452,
+                "floorName": "19层"
+              }
+            ]
+          },
+          {
+            "buildingId": 261,
+            "buildingName": "扬州/商城国际大厦",
+            "floors": [
+              {
+                "floorId": 1563,
+                "floorName": "21层"
+              }
+            ]
+          },
+          {
+            "buildingId": 792,
+            "buildingName": "张家港/国泰新天地",
+            "floors": [
+              {
+                "floorId": 1925,
+                "floorName": "3F"
+              }
+            ]
+          },
+          {
+            "buildingId": 371,
+            "buildingName": "镇江/常发广场",
+            "floors": [
+              {
+                "floorId": 1225,
+                "floorName": "23层"
+              }
+            ]
+          },
+          {
+            "buildingId": 621,
+            "buildingName": "镇江/苏珈大厦",
+            "floors": [
+              {
+                "floorId": 1584,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 809,
+            "buildingName": "镇江/网易联合创新中心",
+            "floors": [
+              {
+                "floorId": 1956,
+                "floorName": "8层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3567,
+        "cityName": "华南(粤桂琼)",
+        "buildings": [
+          {
+            "buildingId": 403,
+            "buildingName": "北海/文邦国际",
+            "floors": [
+              {
+                "floorId": 1246,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 687,
+            "buildingName": "潮州/凤新大厦",
+            "floors": [
+              {
+                "floorId": 1713,
+                "floorName": "7楼"
+              }
+            ]
+          },
+          {
+            "buildingId": 315,
+            "buildingName": "澄迈/沃克公园",
+            "floors": [
+              {
+                "floorId": 966,
+                "floorName": "2层"
+              },
+              {
+                "floorId": 1659,
+                "floorName": "8839一楼"
+              }
+            ]
+          },
+          {
+            "buildingId": 904,
+            "buildingName": "儋州/鼎尚时代",
+            "floors": [
+              {
+                "floorId": 2106,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 635,
+            "buildingName": "东莞/百司汇",
+            "floors": [
+              {
+                "floorId": 1602,
+                "floorName": "20F"
+              }
+            ]
+          },
+          {
+            "buildingId": 526,
+            "buildingName": "东莞/汇盛大厦",
+            "floors": [
+              {
+                "floorId": 1541,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1431,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 333,
+            "buildingName": "东莞/汇业大厦",
+            "floors": [
+              {
+                "floorId": 1058,
+                "floorName": "13F"
+              },
+              {
+                "floorId": 1059,
+                "floorName": "22F"
+              }
+            ]
+          },
+          {
+            "buildingId": 903,
+            "buildingName": "东莞/建兴写字楼",
+            "floors": [
+              {
+                "floorId": 2104,
+                "floorName": "9F"
+              }
+            ]
+          },
+          {
+            "buildingId": 882,
+            "buildingName": "东莞/金航国际大厦",
+            "floors": [
+              {
+                "floorId": 2068,
+                "floorName": "15F"
+              }
+            ]
+          },
+          {
+            "buildingId": 527,
+            "buildingName": "东莞/数码大厦",
+            "floors": [
+              {
+                "floorId": 1432,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 531,
+            "buildingName": "佛山/百利达",
+            "floors": [
+              {
+                "floorId": 1437,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 637,
+            "buildingName": "佛山/嘉信龙成大厦",
+            "floors": [
+              {
+                "floorId": 1604,
+                "floorName": "11楼"
+              }
+            ]
+          },
+          {
+            "buildingId": 532,
+            "buildingName": "佛山/明创轩",
+            "floors": [
+              {
+                "floorId": 1605,
+                "floorName": "2楼"
+              },
+              {
+                "floorId": 1438,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 891,
+            "buildingName": "佛山/万联中心",
+            "floors": [
+              {
+                "floorId": 2084,
+                "floorName": "8F"
+              }
+            ]
+          },
+          {
+            "buildingId": 776,
+            "buildingName": "佛山/亿能国际大厦",
+            "floors": [
+              {
+                "floorId": 1891,
+                "floorName": "12F"
+              }
+            ]
+          },
+          {
+            "buildingId": 390,
+            "buildingName": "佛山/英煌新座",
+            "floors": [
+              {
+                "floorId": 1223,
+                "floorName": "12F"
+              },
+              {
+                "floorId": 1552,
+                "floorName": "16层"
+              }
+            ]
+          },
+          {
+            "buildingId": 165,
+            "buildingName": "佛山/永丰大厦",
+            "floors": [
+              {
+                "floorId": 602,
+                "floorName": "17F"
+              },
+              {
+                "floorId": 930,
+                "floorName": "18F"
+              }
+            ]
+          },
+          {
+            "buildingId": 529,
+            "buildingName": "佛山/智联电商",
+            "floors": [
+              {
+                "floorId": 1434,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1439,
+                "floorName": "19层"
+              }
+            ]
+          },
+          {
+            "buildingId": 823,
+            "buildingName": "广州/ITC国际科创中心",
+            "floors": [
+              {
+                "floorId": 1979,
+                "floorName": "11F"
+              }
+            ]
+          },
+          {
+            "buildingId": 806,
+            "buildingName": "广州/白云景泰创展中心",
+            "floors": [
+              {
+                "floorId": 1945,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 648,
+            "buildingName": "广州/保泰广场",
+            "floors": [
+              {
+                "floorId": 1619,
+                "floorName": "8楼"
+              }
+            ]
+          },
+          {
+            "buildingId": 689,
+            "buildingName": "广州/从化欣荣宏",
+            "floors": [
+              {
+                "floorId": 1715,
+                "floorName": "16F"
+              }
+            ]
+          },
+          {
+            "buildingId": 866,
+            "buildingName": "广州/海珠同创汇",
+            "floors": [
+              {
+                "floorId": 2041,
+                "floorName": "3F"
+              }
+            ]
+          },
+          {
+            "buildingId": 782,
+            "buildingName": "广州/捷泰广场",
+            "floors": [
+              {
+                "floorId": 1912,
+                "floorName": "5F"
+              },
+              {
+                "floorId": 1913,
+                "floorName": "13F"
+              },
+              {
+                "floorId": 1914,
+                "floorName": "14F"
+              }
+            ]
+          },
+          {
+            "buildingId": 757,
+            "buildingName": "广州/龙禧云峰大厦",
+            "floors": [
+              {
+                "floorId": 1865,
+                "floorName": "10F"
+              }
+            ]
+          },
+          {
+            "buildingId": 890,
+            "buildingName": "广州/萝岗万达广场",
+            "floors": [
+              {
+                "floorId": 2083,
+                "floorName": "21F"
+              }
+            ]
+          },
+          {
+            "buildingId": 753,
+            "buildingName": "广州/银丰大厦",
+            "floors": [
+              {
+                "floorId": 1859,
+                "floorName": "23F"
+              }
+            ]
+          },
+          {
+            "buildingId": 660,
+            "buildingName": "广州/一森广场",
+            "floors": [
+              {
+                "floorId": 1633,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 807,
+            "buildingName": "广州/增城万达广场C3栋",
+            "floors": [
+              {
+                "floorId": 1946,
+                "floorName": "11F"
+              }
+            ]
+          },
+          {
+            "buildingId": 844,
+            "buildingName": "广州/增城星之岛",
+            "floors": [
+              {
+                "floorId": 2006,
+                "floorName": "5F"
+              }
+            ]
+          },
+          {
+            "buildingId": 898,
+            "buildingName": "广州/中创汇U+创意园",
+            "floors": [
+              {
+                "floorId": 2097,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 821,
+            "buildingName": "广州/中惠国际",
+            "floors": [
+              {
+                "floorId": 1977,
+                "floorName": "24F"
+              }
+            ]
+          },
+          {
+            "buildingId": 698,
+            "buildingName": "广州/珠江投资大厦",
+            "floors": [
+              {
+                "floorId": 1741,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1742,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 874,
+            "buildingName": "桂林/绿涛盈泰",
+            "floors": [
+              {
+                "floorId": 2055,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 168,
+            "buildingName": "海口/财富中心",
+            "floors": [
+              {
+                "floorId": 1384,
+                "floorName": "20层"
+              },
+              {
+                "floorId": 600,
+                "floorName": "21层"
+              }
+            ]
+          },
+          {
+            "buildingId": 313,
+            "buildingName": "惠州/海信金融广场",
+            "floors": [
+              {
+                "floorId": 1848,
+                "floorName": "14F"
+              },
+              {
+                "floorId": 952,
+                "floorName": "16F"
+              }
+            ]
+          },
+          {
+            "buildingId": 702,
+            "buildingName": "惠州/亨信大厦",
+            "floors": [
+              {
+                "floorId": 1748,
+                "floorName": "17F"
+              }
+            ]
+          },
+          {
+            "buildingId": 664,
+            "buildingName": "惠州/力天大厦",
+            "floors": [
+              {
+                "floorId": 1638,
+                "floorName": "19层"
+              }
+            ]
+          },
+          {
+            "buildingId": 546,
+            "buildingName": "惠州/新泽大厦",
+            "floors": [
+              {
+                "floorId": 1464,
+                "floorName": "603"
+              },
+              {
+                "floorId": 1739,
+                "floorName": "605单元"
+              },
+              {
+                "floorId": 1885,
+                "floorName": "610"
+              }
+            ]
+          },
+          {
+            "buildingId": 594,
+            "buildingName": "江门/财富广场",
+            "floors": [
+              {
+                "floorId": 1534,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 543,
+            "buildingName": "江门/东汇广场",
+            "floors": [
+              {
+                "floorId": 1458,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 721,
+            "buildingName": "江门/中信银行大厦",
+            "floors": [
+              {
+                "floorId": 1800,
+                "floorName": "20F"
+              }
+            ]
+          },
+          {
+            "buildingId": 889,
+            "buildingName": "揭阳/财润大厦",
+            "floors": [
+              {
+                "floorId": 2082,
+                "floorName": "11F"
+              }
+            ]
+          },
+          {
+            "buildingId": 688,
+            "buildingName": "揭阳/普宁青年创业园",
+            "floors": [
+              {
+                "floorId": 1714,
+                "floorName": "3楼"
+              }
+            ]
+          },
+          {
+            "buildingId": 362,
+            "buildingName": "柳州/保利国际中心",
+            "floors": [
+              {
+                "floorId": 1143,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 598,
+            "buildingName": "茂名/摩根时代",
+            "floors": [
+              {
+                "floorId": 1544,
+                "floorName": "12楼"
+              }
+            ]
+          },
+          {
+            "buildingId": 790,
+            "buildingName": "南宁/禾田信息港",
+            "floors": [
+              {
+                "floorId": 1923,
+                "floorName": "3F"
+              }
+            ]
+          },
+          {
+            "buildingId": 303,
+            "buildingName": "南宁/青秀万达",
+            "floors": [
+              {
+                "floorId": 1180,
+                "floorName": "5F"
+              },
+              {
+                "floorId": 1559,
+                "floorName": "19F"
+              },
+              {
+                "floorId": 936,
+                "floorName": "26F"
+              },
+              {
+                "floorId": 1181,
+                "floorName": "46F"
+              }
+            ]
+          },
+          {
+            "buildingId": 800,
+            "buildingName": "清远/亿科大厦",
+            "floors": [
+              {
+                "floorId": 1939,
+                "floorName": "10F"
+              }
+            ]
+          },
+          {
+            "buildingId": 816,
+            "buildingName": "三亚/中信南航",
+            "floors": [
+              {
+                "floorId": 1971,
+                "floorName": "5F"
+              }
+            ]
+          },
+          {
+            "buildingId": 334,
+            "buildingName": "汕头/君华",
+            "floors": [
+              {
+                "floorId": 1060,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 608,
+            "buildingName": "韶关/财富广场",
+            "floors": [
+              {
+                "floorId": 2105,
+                "floorName": "22F"
+              }
+            ]
+          },
+          {
+            "buildingId": 885,
+            "buildingName": "深圳/百外教育集团大厦",
+            "floors": [
+              {
+                "floorId": 2072,
+                "floorName": "7F"
+              }
+            ]
+          },
+          {
+            "buildingId": 517,
+            "buildingName": "深圳/福海工业区",
+            "floors": [
+              {
+                "floorId": 1419,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 446,
+            "buildingName": "深圳/国际西岸",
+            "floors": [
+              {
+                "floorId": 1651,
+                "floorName": "25F"
+              }
+            ]
+          },
+          {
+            "buildingId": 300,
+            "buildingName": "深圳/鸿隆世纪",
+            "floors": [
+              {
+                "floorId": 2078,
+                "floorName": "29E"
+              },
+              {
+                "floorId": 932,
+                "floorName": "29层"
+              }
+            ]
+          },
+          {
+            "buildingId": 810,
+            "buildingName": "深圳/汇隆商务中心",
+            "floors": [
+              {
+                "floorId": 2008,
+                "floorName": "27F"
+              },
+              {
+                "floorId": 1958,
+                "floorName": "28F"
+              }
+            ]
+          },
+          {
+            "buildingId": 518,
+            "buildingName": "深圳/锦胜财富大厦",
+            "floors": [
+              {
+                "floorId": 1420,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 348,
+            "buildingName": "深圳/neo大厦",
+            "floors": [
+              {
+                "floorId": 1539,
+                "floorName": "34层"
+              },
+              {
+                "floorId": 1109,
+                "floorName": "40层"
+              }
+            ]
+          },
+          {
+            "buildingId": 586,
+            "buildingName": "深圳/荣德时代",
+            "floors": [
+              {
+                "floorId": 2033,
+                "floorName": "6F"
+              }
+            ]
+          },
+          {
+            "buildingId": 588,
+            "buildingName": "深圳/投资大厦",
+            "floors": [
+              {
+                "floorId": 1635,
+                "floorName": "409"
+              },
+              {
+                "floorId": 1526,
+                "floorName": "1306B"
+              }
+            ]
+          },
+          {
+            "buildingId": 829,
+            "buildingName": "深圳/万科时代广场",
+            "floors": [
+              {
+                "floorId": 1984,
+                "floorName": "10F"
+              }
+            ]
+          },
+          {
+            "buildingId": 524,
+            "buildingName": "深圳/新地中央",
+            "floors": [
+              {
+                "floorId": 1606,
+                "floorName": "10楼"
+              },
+              {
+                "floorId": 1429,
+                "floorName": "18层"
+              },
+              {
+                "floorId": 2053,
+                "floorName": "19F"
+              }
+            ]
+          },
+          {
+            "buildingId": 672,
+            "buildingName": "深圳/中顺大厦",
+            "floors": [
+              {
+                "floorId": 1660,
+                "floorName": "703"
+              }
+            ]
+          },
+          {
+            "buildingId": 659,
+            "buildingName": "阳江/景翠豪庭",
+            "floors": [
+              {
+                "floorId": 1631,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 791,
+            "buildingName": "玉林/中鼎大厦",
+            "floors": [
+              {
+                "floorId": 1924,
+                "floorName": "7F"
+              }
+            ]
+          },
+          {
+            "buildingId": 458,
+            "buildingName": "湛江/银隆广场",
+            "floors": [
+              {
+                "floorId": 1543,
+                "floorName": "7楼"
+              },
+              {
+                "floorId": 1340,
+                "floorName": "13层"
+              },
+              {
+                "floorId": 1440,
+                "floorName": "18层"
+              }
+            ]
+          },
+          {
+            "buildingId": 450,
+            "buildingName": "肇庆/肇庆文化创意",
+            "floors": [
+              {
+                "floorId": 1325,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 377,
+            "buildingName": "中山/民安广场",
+            "floors": [
+              {
+                "floorId": 1191,
+                "floorName": "10F"
+              }
+            ]
+          },
+          {
+            "buildingId": 589,
+            "buildingName": "中山/坦南创客园",
+            "floors": [
+              {
+                "floorId": 1528,
+                "floorName": "510"
+              }
+            ]
+          },
+          {
+            "buildingId": 171,
+            "buildingName": "中山/颐和中心",
+            "floors": [
+              {
+                "floorId": 601,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 525,
+            "buildingName": "珠海/才知大厦",
+            "floors": [
+              {
+                "floorId": 1430,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 838,
+            "buildingName": "珠海/温莎国际大厦",
+            "floors": [
+              {
+                "floorId": 1994,
+                "floorName": "10F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3568,
+        "cityName": "华西(川渝贵陕云甘青新)",
+        "buildings": [
+          {
+            "buildingId": 606,
+            "buildingName": "安顺/万家商业广场",
+            "floors": [
+              {
+                "floorId": 1557,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 872,
+            "buildingName": "成都/传化商业广场",
+            "floors": [
+              {
+                "floorId": 2052,
+                "floorName": "5F"
+              }
+            ]
+          },
+          {
+            "buildingId": 575,
+            "buildingName": "成都/凤凰汇邻里",
+            "floors": [
+              {
+                "floorId": 1503,
+                "floorName": "17层"
+              }
+            ]
+          },
+          {
+            "buildingId": 765,
+            "buildingName": "成都/环球中心",
+            "floors": [
+              {
+                "floorId": 1876,
+                "floorName": "12F"
+              }
+            ]
+          },
+          {
+            "buildingId": 576,
+            "buildingName": "成都/金牛万达",
+            "floors": [
+              {
+                "floorId": 1504,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 480,
+            "buildingName": "成都/时代八号",
+            "floors": [
+              {
+                "floorId": 1369,
+                "floorName": "25层"
+              }
+            ]
+          },
+          {
+            "buildingId": 201,
+            "buildingName": "成都/世外桃源",
+            "floors": [
+              {
+                "floorId": 560,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 652,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 2112,
+                "floorName": "15层"
+              },
+              {
+                "floorId": 1282,
+                "floorName": "16层"
+              }
+            ]
+          },
+          {
+            "buildingId": 481,
+            "buildingName": "成都/泰业北城",
+            "floors": [
+              {
+                "floorId": 1370,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 279,
+            "buildingName": "成都/温哥华广场",
+            "floors": [
+              {
+                "floorId": 1151,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 860,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 870,
+            "buildingName": "成都/向荣中心B座",
+            "floors": [
+              {
+                "floorId": 2050,
+                "floorName": "14F"
+              }
+            ]
+          },
+          {
+            "buildingId": 244,
+            "buildingName": "成都/亚太并购大厦",
+            "floors": [
+              {
+                "floorId": 738,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1323,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 717,
+            "buildingName": "大理/榆都商务楼",
+            "floors": [
+              {
+                "floorId": 1786,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 879,
+            "buildingName": "德阳/钻石广场",
+            "floors": [
+              {
+                "floorId": 2064,
+                "floorName": "17F"
+              },
+              {
+                "floorId": 2067,
+                "floorName": "19F"
+              }
+            ]
+          },
+          {
+            "buildingId": 367,
+            "buildingName": "贵阳/国贸置业大厦",
+            "floors": [
+              {
+                "floorId": 1179,
+                "floorName": "23层"
+              },
+              {
+                "floorId": 1150,
+                "floorName": "24层"
+              }
+            ]
+          },
+          {
+            "buildingId": 881,
+            "buildingName": "贵阳/中国人寿大厦",
+            "floors": [
+              {
+                "floorId": 2066,
+                "floorName": "17F"
+              }
+            ]
+          },
+          {
+            "buildingId": 295,
+            "buildingName": "昆明/C86山茶坊",
+            "floors": [
+              {
+                "floorId": 1560,
+                "floorName": "3A"
+              },
+              {
+                "floorId": 1561,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1722,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 921,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 705,
+            "buildingName": "兰州/金融国际",
+            "floors": [
+              {
+                "floorId": 1767,
+                "floorName": "16F"
+              }
+            ]
+          },
+          {
+            "buildingId": 714,
+            "buildingName": "丽江/祥顺商厦",
+            "floors": [
+              {
+                "floorId": 1781,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 577,
+            "buildingName": "六盘水/雨田",
+            "floors": [
+              {
+                "floorId": 1506,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 424,
+            "buildingName": "泸州/万象汇",
+            "floors": [
+              {
+                "floorId": 1283,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 708,
+            "buildingName": "绵阳/嘉来南河广场",
+            "floors": [
+              {
+                "floorId": 1770,
+                "floorName": "19F"
+              }
+            ]
+          },
+          {
+            "buildingId": 479,
+            "buildingName": "曲靖/汇宝大厦",
+            "floors": [
+              {
+                "floorId": 1368,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 861,
+            "buildingName": "铜仁/锦鹏国际",
+            "floors": [
+              {
+                "floorId": 2031,
+                "floorName": "12"
+              }
+            ]
+          },
+          {
+            "buildingId": 666,
+            "buildingName": "乌鲁木齐/大成国际中心",
+            "floors": [
+              {
+                "floorId": 1642,
+                "floorName": "14F"
+              }
+            ]
+          },
+          {
+            "buildingId": 400,
+            "buildingName": "西安/海林大厦",
+            "floors": [
+              {
+                "floorId": 1242,
+                "floorName": "7层"
+              },
+              {
+                "floorId": 1243,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1455,
+                "floorName": "9层"
+              }
+            ]
+          },
+          {
+            "buildingId": 591,
+            "buildingName": "西安/静安广场",
+            "floors": [
+              {
+                "floorId": 1530,
+                "floorName": "7F"
+              }
+            ]
+          },
+          {
+            "buildingId": 270,
+            "buildingName": "西安/林凯国际",
+            "floors": [
+              {
+                "floorId": 838,
+                "floorName": "21层"
+              }
+            ]
+          },
+          {
+            "buildingId": 604,
+            "buildingName": "西安/协通国际",
+            "floors": [
+              {
+                "floorId": 1554,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 730,
+            "buildingName": "西宁/纺织品大厦",
+            "floors": [
+              {
+                "floorId": 1810,
+                "floorName": "10F"
+              }
+            ]
+          },
+          {
+            "buildingId": 478,
+            "buildingName": "西双版纳/滨港国际",
+            "floors": [
+              {
+                "floorId": 1367,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 475,
+            "buildingName": "银川/瑞银财富",
+            "floors": [
+              {
+                "floorId": 1363,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 856,
+            "buildingName": "玉溪/东逸商务楼",
+            "floors": [
+              {
+                "floorId": 2024,
+                "floorName": "4F"
+              }
+            ]
+          },
+          {
+            "buildingId": 243,
+            "buildingName": "重庆/光宇国际",
+            "floors": [
+              {
+                "floorId": 1446,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 801,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1074,
+                "floorName": "24层"
+              },
+              {
+                "floorId": 737,
+                "floorName": "25层"
+              },
+              {
+                "floorId": 736,
+                "floorName": "26层"
+              }
+            ]
+          },
+          {
+            "buildingId": 758,
+            "buildingName": "重庆/光宇国际-多功能会议室",
+            "floors": [
+              {
+                "floorId": 1866,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 877,
+            "buildingName": "重庆/华润广场A座",
+            "floors": [
+              {
+                "floorId": 2062,
+                "floorName": "10F"
+              }
+            ]
+          },
+          {
+            "buildingId": 858,
+            "buildingName": "重庆/互联网产业园二期",
+            "floors": [
+              {
+                "floorId": 2026,
+                "floorName": "4F"
+              }
+            ]
+          },
+          {
+            "buildingId": 466,
+            "buildingName": "重庆/经协大厦",
+            "floors": [
+              {
+                "floorId": 1349,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 665,
+            "buildingName": "重庆/来福士",
+            "floors": [
+              {
+                "floorId": 1641,
+                "floorName": "11F"
+              },
+              {
+                "floorId": 1640,
+                "floorName": "12F"
+              }
+            ]
+          },
+          {
+            "buildingId": 726,
+            "buildingName": "重庆/来福士-多功能会议室",
+            "floors": [
+              {
+                "floorId": 1804,
+                "floorName": "11层"
+              },
+              {
+                "floorId": 1805,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 468,
+            "buildingName": "重庆/万科锦程",
+            "floors": [
+              {
+                "floorId": 1353,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1355,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 582,
+            "buildingName": "重庆/阅江卿城",
+            "floors": [
+              {
+                "floorId": 1515,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 847,
+            "buildingName": "遵义/世贸城",
+            "floors": [
+              {
+                "floorId": 2013,
+                "floorName": "24F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3569,
+        "cityName": "华中(湘鄂赣闽)",
+        "buildings": [
+          {
+            "buildingId": 597,
+            "buildingName": "郴州/五岭新天地",
+            "floors": [
+              {
+                "floorId": 1542,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 655,
+            "buildingName": "恩施/恩旅大厦",
+            "floors": [
+              {
+                "floorId": 1627,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 789,
+            "buildingName": "福州/福清万达广场",
+            "floors": [
+              {
+                "floorId": 1922,
+                "floorName": "20F"
+              }
+            ]
+          },
+          {
+            "buildingId": 756,
+            "buildingName": "福州/山亚科技中心",
+            "floors": [
+              {
+                "floorId": 1864,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 183,
+            "buildingName": "福州/万科广场",
+            "floors": [
+              {
+                "floorId": 616,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 587,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 887,
+            "buildingName": "福州/万科广场-政府接待室",
+            "floors": [
+              {
+                "floorId": 2079,
+                "floorName": "4F"
+              }
+            ]
+          },
+          {
+            "buildingId": 784,
+            "buildingName": "福州/中国冶金地质大厦",
+            "floors": [
+              {
+                "floorId": 1916,
+                "floorName": "12F"
+              },
+              {
+                "floorId": 1917,
+                "floorName": "14F"
+              }
+            ]
+          },
+          {
+            "buildingId": 785,
+            "buildingName": "赣州/光明家具城",
+            "floors": [
+              {
+                "floorId": 1918,
+                "floorName": "4F"
+              }
+            ]
+          },
+          {
+            "buildingId": 860,
+            "buildingName": "赣州/云星中央星城",
+            "floors": [
+              {
+                "floorId": 2030,
+                "floorName": "7F"
+              }
+            ]
+          },
+          {
+            "buildingId": 652,
+            "buildingName": "衡阳/崇业写字楼",
+            "floors": [
+              {
+                "floorId": 1623,
+                "floorName": "8层"
+              }
+            ]
+          },
+          {
+            "buildingId": 812,
+            "buildingName": "衡阳/弘阳广场",
+            "floors": [
+              {
+                "floorId": 1959,
+                "floorName": "20F"
+              }
+            ]
+          },
+          {
+            "buildingId": 645,
+            "buildingName": "怀化/新天地",
+            "floors": [
+              {
+                "floorId": 1616,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 573,
+            "buildingName": "黄冈/艾都国际",
+            "floors": [
+              {
+                "floorId": 1501,
+                "floorName": "14层"
+              }
+            ]
+          },
+          {
+            "buildingId": 729,
+            "buildingName": "黄冈市/东坡外滩",
+            "floors": [
+              {
+                "floorId": 1809,
+                "floorName": "2层"
+              }
+            ]
+          },
+          {
+            "buildingId": 859,
+            "buildingName": "黄石/摩尔城",
+            "floors": [
+              {
+                "floorId": 2028,
+                "floorName": "8F"
+              }
+            ]
+          },
+          {
+            "buildingId": 572,
+            "buildingName": "九江/龙翔国贸",
+            "floors": [
+              {
+                "floorId": 1500,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 840,
+            "buildingName": "龙岩/太古广场",
+            "floors": [
+              {
+                "floorId": 1998,
+                "floorName": "5F"
+              }
+            ]
+          },
+          {
+            "buildingId": 795,
+            "buildingName": "龙岩/泰华大厦",
+            "floors": [
+              {
+                "floorId": 1932,
+                "floorName": "4F"
+              }
+            ]
+          },
+          {
+            "buildingId": 274,
+            "buildingName": "南昌/鼎峰中央",
+            "floors": [
+              {
+                "floorId": 845,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1112,
+                "floorName": "5层"
+              }
+            ]
+          },
+          {
+            "buildingId": 255,
+            "buildingName": "南昌/一德大厦",
+            "floors": [
+              {
+                "floorId": 1878,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 788,
+            "buildingName": "萍乡/凤凰天成综合楼",
+            "floors": [
+              {
+                "floorId": 1921,
+                "floorName": "6F"
+              }
+            ]
+          },
+          {
+            "buildingId": 259,
+            "buildingName": "莆田/凯天国际",
+            "floors": [
+              {
+                "floorId": 795,
+                "floorName": "3层"
+              }
+            ]
+          },
+          {
+            "buildingId": 878,
+            "buildingName": "泉州/晋江海明文化城",
+            "floors": [
+              {
+                "floorId": 2063,
+                "floorName": "3F"
+              }
+            ]
+          },
+          {
+            "buildingId": 253,
+            "buildingName": "泉州/中骏广场",
+            "floors": [
+              {
+                "floorId": 788,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 719,
+            "buildingName": "厦门/SM国际中心",
+            "floors": [
+              {
+                "floorId": 1789,
+                "floorName": "6B"
+              },
+              {
+                "floorId": 1935,
+                "floorName": "6C"
+              }
+            ]
+          },
+          {
+            "buildingId": 220,
+            "buildingName": "厦门/杏林湾商务运营中心",
+            "floors": [
+              {
+                "floorId": 651,
+                "floorName": "13F"
+              }
+            ]
+          },
+          {
+            "buildingId": 592,
+            "buildingName": "武汉/华新大厦",
+            "floors": [
+              {
+                "floorId": 1532,
+                "floorName": "5"
+              }
+            ]
+          },
+          {
+            "buildingId": 399,
+            "buildingName": "武汉/南国中心",
+            "floors": [
+              {
+                "floorId": 1239,
+                "floorName": "9层"
+              },
+              {
+                "floorId": 1240,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1241,
+                "floorName": "12层"
+              },
+              {
+                "floorId": 1572,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 651,
+            "buildingName": "武汉/盘古产业园",
+            "floors": [
+              {
+                "floorId": 1622,
+                "floorName": "4层"
+              }
+            ]
+          },
+          {
+            "buildingId": 240,
+            "buildingName": "武汉/知音广场",
+            "floors": [
+              {
+                "floorId": 916,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 730,
+                "floorName": "6层"
+              },
+              {
+                "floorId": 827,
+                "floorName": "13层"
+              }
+            ]
+          },
+          {
+            "buildingId": 463,
+            "buildingName": "襄阳/领秀中原",
+            "floors": [
+              {
+                "floorId": 1343,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 536,
+            "buildingName": "咸宁/同惠广场",
+            "floors": [
+              {
+                "floorId": 1445,
+                "floorName": "24层"
+              }
+            ]
+          },
+          {
+            "buildingId": 695,
+            "buildingName": "新化东方城市广场",
+            "floors": [
+              {
+                "floorId": 1727,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 787,
+            "buildingName": "新余/曼福特广场",
+            "floors": [
+              {
+                "floorId": 1920,
+                "floorName": "12F"
+              }
+            ]
+          },
+          {
+            "buildingId": 462,
+            "buildingName": "宜昌/时代天骄",
+            "floors": [
+              {
+                "floorId": 1344,
+                "floorName": "7层"
+              }
+            ]
+          },
+          {
+            "buildingId": 786,
+            "buildingName": "宜春/台商大厦",
+            "floors": [
+              {
+                "floorId": 1919,
+                "floorName": "14F"
+              }
+            ]
+          },
+          {
+            "buildingId": 580,
+            "buildingName": "永州/名扬愿景",
+            "floors": [
+              {
+                "floorId": 1510,
+                "floorName": "1层"
+              }
+            ]
+          },
+          {
+            "buildingId": 583,
+            "buildingName": "岳阳/景源商务",
+            "floors": [
+              {
+                "floorId": 1516,
+                "floorName": "10层"
+              }
+            ]
+          },
+          {
+            "buildingId": 779,
+            "buildingName": "岳阳/深蓝时代",
+            "floors": [
+              {
+                "floorId": 1906,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 574,
+            "buildingName": "张家界/泊富国际",
+            "floors": [
+              {
+                "floorId": 1502,
+                "floorName": "6层"
+              }
+            ]
+          },
+          {
+            "buildingId": 460,
+            "buildingName": "长沙/绿地",
+            "floors": [
+              {
+                "floorId": 1880,
+                "floorName": "9楼"
+              },
+              {
+                "floorId": 1346,
+                "floorName": "19层"
+              }
+            ]
+          },
+          {
+            "buildingId": 209,
+            "buildingName": "长沙/投资大厦",
+            "floors": [
+              {
+                "floorId": 1069,
+                "floorName": "3层"
+              },
+              {
+                "floorId": 609,
+                "floorName": "4层"
+              },
+              {
+                "floorId": 1593,
+                "floorName": "5层"
+              },
+              {
+                "floorId": 1594,
+                "floorName": "11层"
+              }
+            ]
+          },
+          {
+            "buildingId": 461,
+            "buildingName": "长沙/鑫融国际",
+            "floors": [
+              {
+                "floorId": 1345,
+                "floorName": "8层"
+              },
+              {
+                "floorId": 1995,
+                "floorName": "10层"
+              },
+              {
+                "floorId": 1444,
+                "floorName": "12层"
+              }
+            ]
+          },
+          {
+            "buildingId": 483,
+            "buildingName": "漳州/万达广场",
+            "floors": [
+              {
+                "floorId": 1374,
+                "floorName": "21F"
+              }
+            ]
+          },
+          {
+            "buildingId": 650,
+            "buildingName": "株洲/大汉希尔顿",
+            "floors": [
+              {
+                "floorId": 1621,
+                "floorName": "15层"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3606,
+        "cityName": "中国-香港",
+        "buildings": [
+          {
+            "buildingId": 636,
+            "buildingName": "香港/Tower 535",
+            "floors": [
+              {
+                "floorId": 1749,
+                "floorName": "9F"
+              },
+              {
+                "floorId": 1603,
+                "floorName": "12F"
+              }
+            ]
+          },
+          {
+            "buildingId": 793,
+            "buildingName": "香港/新世纪广场",
+            "floors": [
+              {
+                "floorId": 1926,
+                "floorName": "16F"
+              }
+            ]
+          },
+          {
+            "buildingId": 534,
+            "buildingName": "香港/长沙湾广场",
+            "floors": [
+              {
+                "floorId": 1442,
+                "floorName": "7F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3615,
+        "cityName": "GCC-Bahrain",
+        "buildings": [
+          {
+            "buildingId": 851,
+            "buildingName": "Manamah/World Trade Center",
+            "floors": [
+              {
+                "floorId": 2061,
+                "floorName": "12F"
+              },
+              {
+                "floorId": 2018,
+                "floorName": "19F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3614,
+        "cityName": "GCC-Kuwait",
+        "buildings": [
+          {
+            "buildingId": 830,
+            "buildingName": "Kuwait/Baitak Tower",
+            "floors": [
+              {
+                "floorId": 1985,
+                "floorName": "19F"
+              },
+              {
+                "floorId": 2029,
+                "floorName": "20F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3613,
+        "cityName": "GCC-Qatar",
+        "buildings": [
+          {
+            "buildingId": 828,
+            "buildingName": "Doha/Al Fardan Tower",
+            "floors": [
+              {
+                "floorId": 2034,
+                "floorName": "10F"
+              },
+              {
+                "floorId": 1983,
+                "floorName": "14F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3612,
+        "cityName": "GCC-United Arab Emirates",
+        "buildings": [
+          {
+            "buildingId": 827,
+            "buildingName": "Dubai/Burj Al Salam",
+            "floors": [
+              {
+                "floorId": 2059,
+                "floorName": "24F"
+              },
+              {
+                "floorId": 1982,
+                "floorName": "44F"
+              }
+            ]
+          },
+          {
+            "buildingId": 875,
+            "buildingName": "Dubai/H Hotel",
+            "floors": [
+              {
+                "floorId": 2056,
+                "floorName": "8F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3607,
+        "cityName": "GCC-Saudi",
+        "buildings": [
+          {
+            "buildingId": 805,
+            "buildingName": "Riyadh/Diamond Square",
+            "floors": [
+              {
+                "floorId": 1944,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 774,
+            "buildingName": "Riyadh/Spring Plaza",
+            "floors": [
+              {
+                "floorId": 1889,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 852,
+            "buildingName": "Riyadh/Windows",
+            "floors": [
+              {
+                "floorId": 2019,
+                "floorName": "1F"
+              },
+              {
+                "floorId": 2020,
+                "floorName": "2F"
+              }
+            ]
+          },
+          {
+            "buildingId": 857,
+            "buildingName": "Riyadh/Windows-Training Room",
+            "floors": [
+              {
+                "floorId": 2025,
+                "floorName": "1F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": 3611,
+        "cityName": "Brazil",
+        "buildings": [
+          {
+            "buildingId": 862,
+            "buildingName": "Rio/Wework Helios Seelinger",
+            "floors": [
+              {
+                "floorId": 2035,
+                "floorName": "1F"
+              }
+            ]
+          },
+          {
+            "buildingId": 897,
+            "buildingName": "São Paulo/Aliança",
+            "floors": [
+              {
+                "floorId": 2094,
+                "floorName": "4F"
+              },
+              {
+                "floorId": 2095,
+                "floorName": "7F"
+              }
+            ]
+          },
+          {
+            "buildingId": 906,
+            "buildingName": "São Paulo/Aliança TrainingRoom",
+            "floors": [
+              {
+                "floorId": 2108,
+                "floorName": "4F"
+              }
+            ]
+          },
+          {
+            "buildingId": 886,
+            "buildingName": "São Paulo/EZ Tower",
+            "floors": [
+              {
+                "floorId": 2074,
+                "floorName": "10F"
+              },
+              {
+                "floorId": 2075,
+                "floorName": "11F"
+              },
+              {
+                "floorId": 2076,
+                "floorName": "12F"
+              },
+              {
+                "floorId": 2077,
+                "floorName": "13F"
+              }
+            ]
+          },
+          {
+            "buildingId": 888,
+            "buildingName": "São Paulo/EZ Training Room",
+            "floors": [
+              {
+                "floorId": 2081,
+                "floorName": "10F"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
