@@ -16,38 +16,37 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
   }
   ```
 
-## What Goes Here
+## 🛠️ 工具偏好强制规范
 
-Things like:
+### 学城文档操作
+- **必须用**: `km` CLI 或 `citadel` skill
+- **禁止用**: 浏览器自动化（太慢）
 
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+### PR 生命周期操作
+- **必须用**: `mtcode` / `mpr` CLI
+- **禁止用**: 浏览器自动化
 
-## Examples
+### 代码搜索/定位/分析
+- **必须用**: CatPaw Claude Code（`mc --code`）
+- **禁止用**: 手工 grep + 逐个读文件
 
-```markdown
-### Cameras
+### 大象消息
+- **必须用**: `dx` CLI
+- **注意**: Sub-agent 推送时必须指定 `channel: "daxiang"`
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+### 其他浏览器操作
+- **仅在 CLI 无法完成时使用**
+- **禁止**: 未经确认直接操作
 
-### SSH
+### Sub-agent 派发规范
+- Task 描述里必须明确写用哪个 CLI
+- 不能模糊写"浏览器打开"或"帮我查一下"
 
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
+---
 
 ## Why Separate?
 
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your setup, and share skills without leaking your infrastructure.
 
 ---
 
